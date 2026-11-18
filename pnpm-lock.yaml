@@ -14,6 +14,9 @@ importers:
       '@fontsource-variable/geologica':
         specifier: ^5.3.0
         version: 5.3.0
+      '@fontsource-variable/lora':
+        specifier: ^5.3.0
+        version: 5.3.0
       '@fontsource-variable/rem':
         specifier: ^5.3.0
         version: 5.3.0
@@ -413,6 +416,9 @@ packages:
 
   '@fontsource-variable/geologica@5.3.0':
     resolution: {integrity: sha512-N4pGIVYOXkyXDMooL/HeNYWbx7aMxRP+xABgkjZwi6bVeM/GM/cqHdO8UNFQiR5QR52yLI1RrzgKxm0DKWO2wQ==}
+
+  '@fontsource-variable/lora@5.3.0':
+    resolution: {integrity: sha512-2ph8KiZ8Bn141hWuC3ErtpJ+Ui8p2MJQn8TJNRSRmLmnCIOCtHfiBM9R7WLRPeUG/q6hXyHOxWQ8DvRSX+ixvQ==}
 
   '@fontsource-variable/rem@5.3.0':
     resolution: {integrity: sha512-aRAZMGiEPzc8+lhr08y9SHxu0+74SOUivzcOt+BR9wws2U0PnvJzvK15YrR7WDa86Dsh7wAC8AKlrEAsmvE+dQ==}
@@ -2103,6 +2109,8 @@ snapshots:
     optional: true
 
   '@fontsource-variable/geologica@5.3.0': {}
+
+  '@fontsource-variable/lora@5.3.0': {}
 
   '@fontsource-variable/rem@5.3.0': {}
 

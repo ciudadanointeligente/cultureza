@@ -1,0 +1,256 @@
+---
+import "@fontsource-variable/lora";
+
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import { cuentos } from "../../data/cuentos";
+import type { Cuento } from "../../data/cuentos";
+
+export function getStaticPaths() {
+	return cuentos.map((cuento) => ({
+		params: { slug: cuento.slug },
+		props: { cuento },
+	}));
+}
+
+interface Props {
+	cuento: Cuento;
+}
+
+const { cuento } = Astro.props;
+---
+
+<BaseLayout
+	title={`${cuento.title} — Cuentos de la Cultureza`}
+	description={cuento.excerpt}
+	newsletter={false}
+>
+	<div class="story">
+		<div class="story-container">
+			<a class="back-link" href="/cuentos/">← Volver a Cuentos</a>
+
+			<article class="sheet">
+				<header class="sheet-header">
+					<p class="story-eyebrow">{cuento.category} · {cuento.country}</p>
+					<h1>{cuento.title}</h1>
+					{cuento.author && <p class="author">Por {cuento.author}</p>}
+				</header>
+
+				<div class="story-body">
+					{cuento.body.map((paragraph) => <p>{paragraph}</p>)}
+				</div>
+
+				<footer class="sheet-footer">
+					<span>Cuentos de la Cultureza</span>
+					<a href="/cuentos/">Seguir leyendo</a>
+				</footer>
+			</article>
+		</div>
+	</div>
+</BaseLayout>
+
+<style>
+	.story {
+		--font-story: "Lora Variable", Georgia, "Times New Roman", serif;
+		padding-bottom: 90px;
+	}
+
+	.story-container {
+		width: min(960px, calc(100% - 64px));
+		margin: 0 auto;
+	}
+
+	.back-link {
+		display: inline-flex;
+		align-items: center;
+		gap: 8px;
+		margin: 8px 0 22px;
+		color: var(--color-brand);
+		font-family: var(--font-sans);
+		font-size: 14px;
+		font-weight: 700;
+		letter-spacing: 0.04em;
+		line-height: 1.2;
+		text-transform: uppercase;
+		text-decoration: none;
+	}
+
+	.back-link:hover,
+	.back-link:focus-visible {
+		text-decoration: underline;
+		text-underline-offset: 3px;
+	}
+
+	.sheet {
+		padding: clamp(38px, 6vw, 82px) clamp(26px, 7vw, 92px) clamp(34px, 4.5vw, 58px);
+		border: 1px solid var(--color-ink);
+		background: #fff;
+	}
+
+	.sheet-header {
+		padding-bottom: 38px;
+		border-bottom: 1px solid #d8d8d8;
+	}
+
+	.story-eyebrow {
+		margin: 0;
+		color: var(--color-brand);
+		font-family: var(--font-mono);
+		font-size: 13px;
+		letter-spacing: 0.08em;
+		line-height: 1.4;
+		text-transform: uppercase;
+	}
+
+	.sheet h1 {
+		max-width: 15ch;
+		margin: 20px 0 0;
+		color: var(--color-ink);
+		font-family: var(--font-display);
+		font-size: clamp(38px, 4.6vw, 62px);
+		font-weight: 600;
+		line-height: 1.02;
+		letter-spacing: -0.035em;
+	}
+
+	.author {
+		margin: 20px 0 0;
+		color: var(--color-olive);
+		font-family: var(--font-sans);
+		font-size: 17px;
+		line-height: 1.4;
+	}
+
+	.story-body {
+		max-width: 64ch;
+		margin: 44px auto 0;
+		color: #191a23;
+		font-family: var(--font-story);
+		font-size: clamp(18.5px, 1.55vw, 21px);
+		font-weight: 400;
+		line-height: 1.75;
+	}
+
+	.story-body p {
+		margin: 0 0 1.35em;
+	}
+
+	.story-body p:last-child {
+		margin-bottom: 0;
+	}
+
+	.story-body > p:first-child::first-letter {
+		float: left;
+		margin: 0.04em 0.09em 0 0;
+		color: var(--color-brand);
+		font-family: var(--font-story);
+		font-size: 5.1em;
+		font-weight: 600;
+		line-height: 0.78;
+		text-transform: uppercase;
+	}
+
+	.sheet-footer {
+		display: flex;
+		align-items: center;
+		justify-content: space-between;
+		gap: 24px;
+		margin-top: 56px;
+		padding-top: 22px;
+		border-top: 1px solid #d8d8d8;
+		color: var(--color-ink-soft);
+		font-family: var(--font-sans);
+		font-size: 12px;
+		font-weight: 500;
+		letter-spacing: 0.06em;
+		line-height: 1.3;
+		text-transform: uppercase;
+	}
+
+	.sheet-footer a {
+		color: var(--color-brand);
+		font-weight: 700;
+		text-decoration: none;
+	}
+
+	.sheet-footer a:hover,
+	.sheet-footer a:focus-visible {
+		text-decoration: underline;
+		text-underline-offset: 3px;
+	}
+
+	@media (max-width: 760px) {
+		.story {
+			padding-bottom: 60px;
+		}
+
+		.story-container {
+			width: calc(100% - 32px);
+		}
+
+		.back-link {
+			margin: 2px 0 16px;
+			font-size: 12px;
+		}
+
+		.sheet {
+			padding: 30px 22px 28px;
+		}
+
+		.sheet-header {
+			padding-bottom: 26px;
+		}
+
+		.story-eyebrow {
+			font-size: 11px;
+		}
+
+		.sheet h1 {
+			margin-top: 14px;
+			font-size: clamp(32px, 9.6vw, 44px);
+		}
+
+		.story-body {
+			margin-top: 30px;
+			font-size: 18.5px;
+			line-height: 1.72;
+		}
+
+		.story-body > p:first-child::first-letter {
+			font-size: 4.4em;
+		}
+
+		.sheet-footer {
+			margin-top: 40px;
+			font-size: 10px;
+		}
+	}
+
+	@media print {
+		.back-link,
+		.sheet-footer {
+			display: none;
+		}
+
+		.story {
+			padding: 0;
+		}
+
+		.story-container {
+			width: 100%;
+		}
+
+		.sheet {
+			padding: 0;
+			border: 0;
+		}
+
+		.sheet-header {
+			padding-bottom: 24px;
+		}
+
+		.story-body {
+			max-width: none;
+			margin-top: 28px;
+		}
+	}
+</style>
