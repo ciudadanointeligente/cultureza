@@ -7,6 +7,8 @@ import alpinejs from '@astrojs/alpinejs';
 
 // https://astro.build/config
 export default defineConfig({
+  site: "https://cultureza.ciudadaniai.org",
+
   vite: {
     plugins: [tailwindcss()]
   },
