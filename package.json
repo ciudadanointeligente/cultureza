@@ -1,27 +1,32 @@
 {
-  "name": "cultureza",
-  "type": "module",
-  "version": "0.0.1",
-  "engines": {
-    "node": ">=22.23.4"
-  },
-  "scripts": {
-    "dev": "astro dev",
-    "build": "astro build",
-    "preview": "astro preview",
-    "astro": "astro",
-    "figma:sync": "node scripts/figma-sync.mjs"
-  },
-  "dependencies": {
-    "@astrojs/alpinejs": "^1.0.0",
-    "@fontsource-variable/geologica": "^5.3.0",
-    "@fontsource-variable/rem": "^5.3.0",
-    "@fontsource/space-mono": "^5.3.0",
-    "@tailwindcss/vite": "^4.3.5",
-    "@types/alpinejs": "^3.17.0",
-    "alpinejs": "^3.17.5",
-    "approve-builds": "^1.0.0",
-    "astro": "^7.4.12",
-    "tailwindcss": "^4.3.5"
-  }
+	"name": "cultureza",
+	"type": "module",
+	"version": "0.0.1",
+	"engines": {
+		"node": ">=22.23.4"
+	},
+	"scripts": {
+		"dev": "astro dev",
+		"build": "astro build",
+		"preview": "astro preview",
+		"astro": "astro",
+		"figma:sync": "node scripts/figma-sync.mjs"
+	},
+	"dependencies": {
+		"@astrojs/alpinejs": "^1.0.0",
+		"@fontsource-variable/geologica": "^5.3.0",
+		"@fontsource-variable/rem": "^5.3.0",
+		"@fontsource/space-mono": "^5.3.0",
+		"@tailwindcss/vite": "^4.3.5",
+		"@types/alpinejs": "^3.17.0",
+		"alpinejs": "^3.17.5",
+		"approve-builds": "^1.0.0",
+		"astro": "^7.4.12",
+		"tailwindcss": "^4.3.5"
+	},
+	"pnpm": {
+		"onlyBuiltDependencies": [
+			"esbuild"
+		]
+	}
 }
