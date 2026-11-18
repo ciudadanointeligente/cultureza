@@ -1,0 +1,16 @@
+---
+import rippedPaper from "../assets/figma/white-ripped-paper-png-1-93b768.png";
+
+interface Props {
+	class?: string;
+}
+
+const { class: className = "" } = Astro.props;
+
+// Recorta cualquier contenido con la silueta del papel rasgado exportado de Figma.
+const mask = `mask-image:url("${rippedPaper.src}");mask-size:100% 100%;mask-repeat:no-repeat;-webkit-mask-image:url("${rippedPaper.src}");-webkit-mask-size:100% 100%;-webkit-mask-repeat:no-repeat;`;
+---
+
+<div class:list={[className]} style={mask}>
+	<slot />
+</div>

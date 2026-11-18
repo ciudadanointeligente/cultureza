@@ -1,0 +1,96 @@
+@import "tailwindcss";
+
+@theme {
+  /* Paleta extraída del archivo de Figma (hex reales, no los nombres de Tailwind) */
+  --color-ink: #000000;
+  --color-ink-soft: #454545;
+  --color-olive: #655846;
+  --color-brand: #7f3aed;
+  --color-lime: #b5e722;
+  --color-paper: #f1f1f1;
+  --color-sun: #f7cb67;
+  --color-alert: #ff4c4d;
+
+  --font-display: "REM Variable", ui-sans-serif, system-ui, sans-serif;
+  --font-sans: "Geologica Variable", ui-sans-serif, system-ui, sans-serif;
+  --font-mono: "Space Mono", ui-monospace, SFMono-Regular, monospace;
+
+  /* Escala tipográfica: valores de 1440 px con clamp para pantallas menores */
+  --text-hero: clamp(3.25rem, 8.9vw, 8rem);
+  --text-hero--line-height: 0.86;
+  --text-hero-sm: clamp(2.75rem, 6.7vw, 6rem);
+  --text-hero-sm--line-height: 1.15;
+  --text-title: clamp(2rem, 3.33vw, 3rem);
+  --text-title--line-height: 1.04;
+  --text-heading: clamp(1.75rem, 2.5vw, 2.25rem);
+  --text-heading--line-height: 1.1;
+  --text-lead: clamp(1.375rem, 2.08vw, 1.875rem);
+  --text-lead--line-height: 1.33;
+  --text-body: clamp(1rem, 1.39vw, 1.25rem);
+  --text-body--line-height: 1.2;
+
+  --radius-card: 1.25rem;
+  --radius-pill: 50.64px;
+}
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    background-color: #fff;
+    color: var(--color-ink);
+    font-family: var(--font-display);
+    -webkit-font-smoothing: antialiased;
+  }
+
+  ::selection {
+    background-color: var(--color-lime);
+    color: var(--color-ink);
+  }
+
+  a:focus-visible,
+  button:focus-visible,
+  input:focus-visible {
+    outline: 2px solid var(--color-brand);
+    outline-offset: 3px;
+  }
+}
+
+@layer components {
+  .container-page {
+    width: min(1244px, calc(100% - 64px));
+    margin-inline: auto;
+  }
+
+  @media (max-width: 760px) {
+    .container-page {
+      width: calc(100% - 40px);
+    }
+  }
+
+  /* Borde de papel rasgado (aproximación; sustituir por el PNG "torn paper" de Figma) */
+  .torn-edge {
+    clip-path: polygon(
+      0% 6%, 8% 2%, 18% 5%, 27% 1%, 38% 4%, 49% 0%, 61% 3%, 72% 1%, 83% 5%, 92% 2%, 100% 7%,
+      100% 95%, 91% 99%, 80% 96%, 69% 100%, 57% 97%, 46% 100%, 35% 96%, 24% 99%, 13% 95%, 0% 98%
+    );
+  }
+
+  .torn-edge-y {
+    clip-path: polygon(
+      0% 2%, 12% 0.6%, 25% 1.6%, 38% 0.2%, 52% 1.4%, 66% 0.4%, 80% 1.8%, 92% 0.8%, 100% 2%,
+      100% 98%, 88% 99.4%, 74% 98.2%, 60% 99.6%, 46% 98.4%, 32% 99.8%, 18% 98.6%, 6% 99.4%, 0% 98%
+    );
+  }
+
+  /* Banda horizontal con bordes rasgados marcados (para las tiras lima) */
+  .torn-band {
+    clip-path: polygon(
+      0% 12%, 8% 4%, 15% 13%, 23% 2%, 30% 10%, 38% 3%, 46% 12%, 54% 1%, 62% 9%, 70% 2%, 78% 11%,
+      86% 4%, 94% 10%, 100% 3%, 100% 88%, 92% 96%, 84% 87%, 76% 98%, 68% 90%, 60% 99%, 52% 89%,
+      44% 97%, 36% 88%, 28% 98%, 20% 90%, 12% 99%, 5% 91%, 0% 97%
+    );
+  }
+}

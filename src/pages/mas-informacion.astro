@@ -1,0 +1,330 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import titulo from "../assets/make2/e912f.svg";
+import mascaraPincel from "../assets/make2/e501c.png";
+---
+
+<BaseLayout
+	title="Más información — Cuentos de la Cultureza"
+	description="Quiénes pueden participar, qué se debe enviar y dónde revisar las bases de la convocatoria Cuentos de la Cultureza."
+	newsletter={false}
+>
+	<div class="page">
+		<!-- Hero -->
+		<section class="hero" id="inicio">
+			<img
+				class="hero-art"
+				src="/franjadefondo-masinformacion.png"
+				alt="Paisaje cordillerano con ganado"
+				width="1440"
+				height="755"
+				fetchpriority="high"
+			/>
+
+			<h1 id="page-title">
+				<img src={titulo.src} alt="Cuentos de la Cultureza" width="782" height="185" />
+			</h1>
+		</section>
+
+		<!-- Quiénes pueden participar -->
+		<section class="participation" id="participar" aria-labelledby="quienes">
+			<div class="participation-inner">
+				<div class="brush-heading">
+					<span aria-hidden="true" style={`mask:url("${mascaraPincel.src}") center / 100% 100% no-repeat;`}></span>
+					<h2 id="quienes">¿Quiénes pueden participar?</h2>
+				</div>
+
+				<ul class="audience-list">
+					<li>Niñeces <strong>(6 a 12 años)</strong></li>
+					<li>Juventudes <strong>(13 a 24 años)</strong></li>
+					<li>Personas adultas <strong>(25 o más años)</strong></li>
+				</ul>
+
+				<p class="region-copy">
+					Personas de <strong>América Latina</strong><br /><strong>y el Caribe,</strong> de cualquier<br class="desktop-break" />{" "}
+					nacionalidad.
+				</p>
+			</div>
+		</section>
+
+		<!-- Qué debo enviar -->
+		<section class="submission" id="informacion" aria-labelledby="enviar">
+			<div class="submission-copy">
+				<div class="brush-heading send-heading">
+					<span aria-hidden="true" style={`mask:url("${mascaraPincel.src}") center / 100% 100% no-repeat;`}></span>
+					<h2 id="enviar">¿Qué debo enviar?</h2>
+				</div>
+
+				<p class="brief">
+					Un cuento breve <strong>de hasta 1000 palabras,</strong> en castellano.<br />
+					Puede nacer de una <strong>experiencia real o imaginada.</strong>
+				</p>
+
+				<p class="requirements" id="bases">
+					<strong>Conoce los requisitos,</strong><br />reconocimientos y el detalle<br />de las <a href="#bases">bases aquí</a>
+				</p>
+			</div>
+
+			<img
+				class="submission-art"
+				src="/arbol-cordillera-masinformacion.png"
+				alt="Araucaria y cordillera de los Andes"
+				width="1408"
+				height="864"
+				loading="lazy"
+			/>
+		</section>
+	</div>
+</BaseLayout>
+
+<style>
+	.page {
+		min-height: 100dvh;
+		overflow: hidden;
+		background: #fff;
+	}
+
+	/* Hero */
+	.hero {
+		position: relative;
+		height: max(390px, 45.5vw);
+		overflow: hidden;
+		isolation: isolate;
+	}
+
+	.hero-art {
+		position: absolute;
+		z-index: -1;
+		top: -2.5vw;
+		left: 0;
+		width: 100%;
+		height: auto;
+	}
+
+	.hero h1 {
+		position: absolute;
+		top: 27%;
+		left: 50%;
+		width: min(54.4vw, 782px);
+		margin: 0;
+		transform: translateX(-50%);
+	}
+
+	.hero h1 img {
+		display: block;
+		max-width: 100%;
+		height: auto;
+	}
+
+	/* Participación */
+	.participation {
+		position: relative;
+		min-height: 675px;
+		padding: 0 clamp(32px, 12.1vw, 174px);
+	}
+
+	.participation-inner {
+		width: min(740px, 100%);
+	}
+
+	.brush-heading {
+		position: relative;
+		display: grid;
+		width: fit-content;
+		min-height: 85px;
+		place-items: center;
+		color: var(--color-paper);
+	}
+
+	.brush-heading > span {
+		position: absolute;
+		inset: 0;
+		z-index: 0;
+		width: 100%;
+		min-width: 100%;
+		background: var(--color-brand);
+	}
+
+	.brush-heading h2 {
+		position: relative;
+		z-index: 1;
+		margin: 0;
+		padding: 12px 36px;
+		font-family: var(--font-mono);
+		font-size: clamp(26px, 2.7vw, 40px);
+		font-weight: 400;
+		line-height: normal;
+		white-space: nowrap;
+	}
+
+	.audience-list {
+		margin-top: 40px;
+		padding: 0;
+		list-style: none;
+		font-size: clamp(28px, 2.6vw, 38px);
+		line-height: 1.5;
+	}
+
+	.audience-list li::before {
+		content: "‣ ";
+		color: var(--color-lime);
+		font-weight: 900;
+	}
+
+	.audience-list strong,
+	.region-copy strong {
+		font-weight: 600;
+	}
+
+	.region-copy {
+		margin-top: 30px;
+		text-align: right;
+		font-size: clamp(28px, 2.6vw, 38px);
+		line-height: 1.4;
+	}
+
+	.region-copy strong {
+		color: var(--color-brand);
+	}
+
+	/* Envío */
+	.submission {
+		position: relative;
+		min-height: 62vw;
+		isolation: isolate;
+	}
+
+	.submission-art {
+		position: absolute;
+		z-index: -1;
+		bottom: 0;
+		left: 0;
+		width: 100%;
+		height: auto;
+		pointer-events: none;
+	}
+
+	.submission-copy {
+		width: min(828px, 58%);
+		margin-left: 43%;
+		padding-top: 2vw;
+	}
+
+	.brief {
+		width: 600px;
+		max-width: 100%;
+		margin-top: 38px;
+		text-align: right;
+		font-size: clamp(26px, 2.5vw, 38px);
+		line-height: normal;
+	}
+
+	.brief strong,
+	.requirements > strong {
+		color: var(--color-brand);
+		font-weight: 600;
+	}
+
+	.requirements {
+		margin-top: 35px;
+		font-size: clamp(26px, 2.5vw, 38px);
+		line-height: normal;
+	}
+
+	.requirements a {
+		color: var(--color-brand);
+		font-weight: 700;
+		text-underline-offset: 4px;
+	}
+
+	@media (max-width: 1100px) {
+		.region-copy {
+			line-height: 1.35;
+		}
+	}
+
+	@media (max-width: 760px) {
+		.hero {
+			height: clamp(240px, 58vw, 380px);
+		}
+
+		.hero-art {
+			top: 0;
+			width: 100%;
+			height: 100%;
+			object-fit: cover;
+			object-position: center;
+		}
+
+		.hero h1 {
+			top: 34%;
+			width: 82vw;
+		}
+
+		.participation {
+			min-height: auto;
+			padding: 0 24px 70px;
+		}
+
+		.brush-heading {
+			min-height: 62px;
+		}
+
+		.brush-heading h2 {
+			padding: 10px 20px;
+			font-size: clamp(19px, 5.1vw, 27px);
+		}
+
+		.audience-list {
+			margin-top: 24px;
+			font-size: clamp(19px, 5vw, 25px);
+			line-height: 1.8;
+		}
+
+		.region-copy {
+			margin-top: 28px;
+			font-size: clamp(20px, 5.3vw, 27px);
+			line-height: 1.45;
+		}
+
+		.desktop-break {
+			display: none;
+		}
+
+		.submission {
+			min-height: auto;
+			padding: 0 0 30px;
+		}
+
+		.submission-copy {
+			width: auto;
+			margin: 0 24px;
+			padding-top: 0;
+		}
+
+		.submission-art {
+			position: relative;
+			bottom: auto;
+			left: auto;
+			width: 130%;
+			max-width: none;
+			margin: 24px 0 0 -15%;
+		}
+
+		.brief,
+		.requirements {
+			margin-left: auto;
+			font-size: clamp(20px, 5.3vw, 27px);
+		}
+
+		.brief {
+			width: 88%;
+			margin-top: 30px;
+		}
+
+		.requirements {
+			width: 72%;
+		}
+
+	}
+</style>

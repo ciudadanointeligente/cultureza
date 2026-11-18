@@ -1,0 +1,263 @@
+---
+import logoBlanco from "../assets/make/logo-ciudadania-white.svg";
+import hoja from "../assets/make/hoja.svg";
+
+interface Props {
+	newsletter?: boolean;
+}
+
+const { newsletter = true } = Astro.props;
+---
+
+{
+	newsletter && (
+		<section class="newsletter" aria-labelledby="newsletter-title">
+			<div>
+				<h2 id="newsletter-title">Suscríbete al Newsletter</h2>
+				<p>de Democracia Ambiental</p>
+			</div>
+
+			<form method="post" action="#suscribirse">
+				<label class="sr-only" for="newsletter-email">Escribe tu correo aquí</label>
+				<input id="newsletter-email" name="email" type="email" required placeholder="Escribe tu correo aquí" autocomplete="email" />
+				<button type="submit">Suscribirse</button>
+			</form>
+		</section>
+	)
+}
+
+<footer>
+	<div class="footer-main">
+		<div class="contact">
+			<span>Contáctanos:</span>
+			<a href="mailto:cultureza@ciudadaniai.org">
+				<svg width="32" height="32" viewBox="0 0 32 32" fill="none" aria-hidden="true">
+					<path
+						d="M11.3333 24H20.6667C23.4951 24 24.9093 24 25.788 23.1213C26.6667 22.2426 26.6667 20.8284 26.6667 18V14C26.6667 11.1716 26.6667 9.75736 25.788 8.87868C24.9093 8 23.4951 8 20.6667 8H11.3333C8.50491 8 7.09069 8 6.21201 8.87868C5.33333 9.75736 5.33333 11.1716 5.33333 14V18C5.33333 20.8284 5.33333 22.2426 6.21201 23.1213C7.09069 24 8.50491 24 11.3333 24Z"
+						stroke="currentColor"
+						stroke-width="3"></path>
+					<path
+						d="M5.33333 12L14.6584 16.6625C15.5029 17.0848 16.4971 17.0848 17.3416 16.6625L26.6667 12"
+						stroke="currentColor"
+						stroke-width="3"></path>
+				</svg>
+				cultureza@ciudadaniai.org
+			</a>
+		</div>
+
+		<img class="leaf" src={hoja.src} alt="" aria-hidden="true" width="108" height="68" />
+
+		<div class="project">
+			<span>Un proyecto de</span>
+			<img src={logoBlanco.src} alt="Ciudadanía Inteligente" width="175" height="51" />
+		</div>
+	</div>
+
+	<p class="copyright">
+		Cultureza: Cuidar las personas, cuidar la naturaleza — de Ciudadanía Inteligente | 2026 Todos los derechos reservados
+	</p>
+</footer>
+
+<style>
+	.newsletter {
+		position: relative;
+		width: min(1338px, calc(100% - 96px));
+		min-height: 140px;
+		margin: 0 auto;
+		padding: 32px 48px;
+		display: grid;
+		grid-template-columns: 300px 1fr;
+		align-items: center;
+		gap: 28px;
+		color: #fff;
+		background: var(--color-brand);
+		border-radius: 20px 20px 0 0;
+		font-family: var(--font-sans);
+	}
+
+	.newsletter h2,
+	.newsletter p {
+		margin: 0;
+	}
+
+	.newsletter h2 {
+		font-family: var(--font-sans);
+		font-size: 20px;
+		font-weight: 900;
+		line-height: 1.1;
+	}
+
+	.newsletter > div p {
+		margin-top: 3px;
+		font-size: 20px;
+		font-weight: 300;
+	}
+
+	.newsletter form {
+		display: grid;
+		grid-template-columns: 1fr auto;
+		gap: 84px;
+		align-items: center;
+	}
+
+	.newsletter input {
+		min-width: 0;
+		height: 50px;
+		padding: 0 18px;
+		color: #655846;
+		background: #fff;
+		border: 0;
+		border-radius: 10px;
+		outline: 2px solid transparent;
+		font-family: var(--font-sans);
+		font-size: 18px;
+		font-weight: 300;
+		transition: outline-color 200ms;
+	}
+
+	.newsletter input:focus {
+		outline-color: var(--color-lime);
+	}
+
+	.newsletter button {
+		padding: 14px 30px;
+		color: var(--color-ink-soft);
+		background: var(--color-lime);
+		border: 0;
+		border-radius: 999px;
+		font-family: var(--font-sans);
+		font-size: 20px;
+		font-weight: 900;
+		text-transform: uppercase;
+		cursor: pointer;
+		transition: background 300ms linear, transform 300ms linear;
+	}
+
+	.newsletter button:hover,
+	.newsletter button:focus-visible {
+		background: #fff;
+		transform: scale(1.04);
+	}
+
+	footer {
+		min-height: 206px;
+		padding: 50px max(64px, calc((100% - 1244px) / 2)) 20px;
+		color: #fff;
+		background: var(--color-ink-soft);
+		font-family: var(--font-sans);
+	}
+
+	.footer-main {
+		display: grid;
+		grid-template-columns: 1fr auto 1fr;
+		align-items: center;
+	}
+
+	.contact {
+		display: flex;
+		flex-direction: column;
+		gap: 5px;
+		font-size: 16px;
+	}
+
+	.contact a {
+		display: flex;
+		align-items: center;
+		gap: 8px;
+		text-decoration: underline;
+	}
+
+	.contact img,
+	.contact svg {
+		width: 32px;
+		height: 32px;
+	}
+
+	.leaf {
+		width: 108px;
+		height: 68px;
+	}
+
+	.project {
+		display: flex;
+		align-items: center;
+		justify-content: flex-end;
+		gap: 28px;
+		font-size: 16px;
+	}
+
+	.project img {
+		width: 175px;
+		height: 51px;
+	}
+
+	.copyright {
+		margin: 32px 0 0;
+		font-size: 14px;
+		line-height: 1.2;
+		text-align: center;
+	}
+
+	@media (max-width: 1100px) {
+		.newsletter {
+			grid-template-columns: 245px 1fr;
+		}
+
+		.newsletter form {
+			gap: 24px;
+		}
+	}
+
+	@media (max-width: 760px) {
+		.newsletter {
+			width: calc(100% - 30px);
+			padding: 28px 22px 32px;
+			grid-template-columns: 1fr;
+			gap: 22px;
+		}
+
+		.newsletter form {
+			grid-template-columns: 1fr;
+			gap: 12px;
+		}
+
+		.newsletter button {
+			justify-self: start;
+			font-size: 16px;
+		}
+
+		footer {
+			padding: 45px 25px 22px;
+		}
+
+		.footer-main {
+			grid-template-columns: 1fr 1fr;
+			gap: 38px 20px;
+		}
+
+		.leaf {
+			grid-column: 1 / -1;
+			grid-row: 1;
+			justify-self: center;
+		}
+
+		.contact {
+			grid-column: 1 / -1;
+			grid-row: 2;
+			align-items: center;
+		}
+
+		.project {
+			grid-column: 1 / -1;
+			grid-row: 3;
+			justify-content: center;
+			flex-direction: column;
+			gap: 12px;
+		}
+
+		.copyright {
+			margin-top: 42px;
+			font-size: 11px;
+		}
+	}
+</style>

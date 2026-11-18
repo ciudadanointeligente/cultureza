@@ -1,0 +1,19 @@
+---
+import logoInk from "../assets/make/logo-ciudadania.svg";
+import logoWhite from "../assets/make/logo-ciudadania-white.svg";
+
+interface Props {
+	class?: string;
+	variant?: "ink" | "white";
+}
+
+const { class: className = "", variant = "ink" } = Astro.props;
+---
+
+<img
+	src={variant === "white" ? logoWhite.src : logoInk.src}
+	alt="Ciudadanía Inteligente"
+	width="214"
+	height="63"
+	class:list={["h-auto w-[214px]", className]}
+/>

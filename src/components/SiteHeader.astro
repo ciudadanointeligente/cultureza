@@ -1,0 +1,177 @@
+---
+import logo from "../assets/make/logo-ciudadania.svg";
+
+const links = [
+	{ href: "/mas-informacion", label: "Más información" },
+	{ href: "/sobre-ciudadania-inteligente", label: "Sobre Ciudadanía Inteligente" },
+];
+---
+
+<header class="site-header" x-data="{ open: false }" @keydown.escape.window="open = false">
+	<a class="brand" href="/" aria-label="Ciudadanía Inteligente, inicio">
+		<img src={logo.src} alt="Ciudadanía Inteligente" width="214" height="63" />
+	</a>
+
+	<button
+		class="menu-toggle"
+		type="button"
+		@click="open = !open"
+		:aria-expanded="open"
+		aria-controls="main-navigation"
+	>
+		<span></span><span></span><span></span>
+		<span class="sr-only">Abrir menú</span>
+	</button>
+
+	<nav id="main-navigation" class="main-nav" :class="open && 'is-open'" aria-label="Navegación principal">
+		{
+			links.map((link) => (
+				<a href={link.href} aria-current={Astro.url.pathname === link.href ? "page" : undefined}>
+					{link.label}
+				</a>
+			))
+		}
+		<a class="nav-button" href="/mas-informacion#participar">Participar</a>
+	</nav>
+</header>
+
+<style>
+	.site-header {
+		width: min(1244px, calc(100% - 64px));
+		height: 178px;
+		margin: 0 auto;
+		display: flex;
+		align-items: center;
+		justify-content: space-between;
+	}
+
+	.brand img {
+		display: block;
+		width: 214px;
+		height: 63px;
+	}
+
+	.main-nav {
+		display: flex;
+		align-items: center;
+		gap: clamp(32px, 5vw, 74px);
+		font-family: var(--font-display);
+		font-size: 20px;
+		line-height: 28px;
+	}
+
+	.main-nav > a:not(.nav-button) {
+		position: relative;
+	}
+
+	.main-nav > a:not(.nav-button)::after {
+		content: "";
+		position: absolute;
+		right: 0;
+		bottom: -5px;
+		left: 0;
+		height: 2px;
+		background: var(--color-brand);
+		transform: scaleX(0);
+		transition: transform 300ms linear;
+	}
+
+	.main-nav > a:hover::after,
+	.main-nav > a:focus-visible::after {
+		transform: scaleX(1);
+	}
+
+	.nav-button {
+		padding: 19px 35px;
+		border: 1px solid #191a23;
+		border-radius: 14px;
+		transition: color 300ms linear, background 300ms linear;
+	}
+
+	.nav-button:hover,
+	.nav-button:focus-visible {
+		color: #fff;
+		background: #191a23;
+	}
+
+	.menu-toggle {
+		display: none;
+	}
+
+	@media (max-width: 1100px) {
+		.site-header {
+			width: min(100% - 48px, 960px);
+		}
+
+		.main-nav {
+			gap: 24px;
+			font-size: 16px;
+		}
+
+		.brand img {
+			width: 175px;
+			height: auto;
+		}
+
+		.nav-button {
+			padding: 14px 24px;
+		}
+	}
+
+	@media (max-width: 760px) {
+		.site-header {
+			position: relative;
+			z-index: 10;
+			width: calc(100% - 40px);
+			height: 108px;
+		}
+
+		.brand img {
+			width: 140px;
+		}
+
+		.menu-toggle {
+			width: 47px;
+			height: 47px;
+			display: flex;
+			flex-direction: column;
+			align-items: center;
+			justify-content: center;
+			gap: 5px;
+			background: var(--color-lime);
+			border: 0;
+			border-radius: 50%;
+			cursor: pointer;
+		}
+
+		.menu-toggle span:not(.sr-only) {
+			width: 21px;
+			height: 2px;
+			background: #191a23;
+		}
+
+		.main-nav {
+			position: absolute;
+			top: 92px;
+			right: 0;
+			width: min(310px, calc(100vw - 40px));
+			padding: 26px;
+			display: none;
+			align-items: stretch;
+			flex-direction: column;
+			gap: 18px;
+			background: #fff;
+			border: 1px solid #191a23;
+			border-radius: 14px;
+			box-shadow: 4px 5px 0 #191a23;
+		}
+
+		.main-nav.is-open {
+			display: flex;
+		}
+
+		.nav-button {
+			text-align: center;
+		}
+	}
+</style>

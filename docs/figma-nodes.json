@@ -1,0 +1,8803 @@
+[
+  {
+    "id": "4415:6319",
+    "name": "Rectangle 4166",
+    "type": "RECTANGLE",
+    "absoluteBoundingBox": {
+      "x": 49,
+      "y": 2376,
+      "width": 1337,
+      "height": 140
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 0.49803921580314636,
+          "g": 0.22745098173618317,
+          "b": 0.929411768913269,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6320",
+    "name": "68095F25-3E50-4A38-BE88-712F135A019E 1",
+    "type": "RECTANGLE",
+    "absoluteBoundingBox": {
+      "x": 0,
+      "y": 0,
+      "width": 1440,
+      "height": 960
+    },
+    "fills": [
+      {
+        "type": "IMAGE",
+        "imageRef": "fa91ae43cdeb44f39f471198c14f9cfd61132ff9"
+      }
+    ]
+  },
+  {
+    "id": "4415:6321",
+    "name": "Rectangle 4155",
+    "type": "RECTANGLE",
+    "absoluteBoundingBox": {
+      "x": 0,
+      "y": 2634,
+      "width": 1440,
+      "height": 44
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 0.27211540937423706,
+          "g": 0.27211540937423706,
+          "b": 0.27211540937423706,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6322",
+    "name": "Rectangle 4156",
+    "type": "RECTANGLE",
+    "absoluteBoundingBox": {
+      "x": 0,
+      "y": 2472,
+      "width": 1440,
+      "height": 162
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 0.27211540937423706,
+          "g": 0.27211540937423706,
+          "b": 0.27211540937423706,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6323",
+    "name": "Cultureza: Cuidar las personas, cuidar la naturaleza - de Ciudadanía Inteligente | 2026 Todos los derechos reservados",
+    "type": "TEXT",
+    "absoluteBoundingBox": {
+      "x": 0,
+      "y": 2648,
+      "width": 1440,
+      "height": 30
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 1
+        }
+      }
+    ],
+    "style": {
+      "fontFamily": "Geologica",
+      "fontSize": 14
+    }
+  },
+  {
+    "id": "4415:6324",
+    "name": "Un proyecto de",
+    "type": "TEXT",
+    "absoluteBoundingBox": {
+      "x": 1037,
+      "y": 2551,
+      "width": 134,
+      "height": 17
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 1
+        }
+      }
+    ],
+    "style": {
+      "fontFamily": "Geologica",
+      "fontSize": 16
+    }
+  },
+  {
+    "id": "4415:6325",
+    "name": "Contáctanos:",
+    "type": "TEXT",
+    "absoluteBoundingBox": {
+      "x": 92,
+      "y": 2530,
+      "width": 134,
+      "height": 17
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 1
+        }
+      }
+    ],
+    "style": {
+      "fontFamily": "Geologica",
+      "fontSize": 16
+    }
+  },
+  {
+    "id": "I4415:6326;3:557",
+    "name": "Ellipse 47",
+    "type": "ELLIPSE",
+    "absoluteBoundingBox": {
+      "x": 1331,
+      "y": 13,
+      "width": 18,
+      "height": 18
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 0.7987847328186035,
+          "g": 0.8253224492073059,
+          "b": 0.8916666507720947,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "I4415:6326;3:558",
+    "name": "Vector 8",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 1336,
+      "y": 17.99999959947877,
+      "width": 8.00000040052123,
+      "height": 8.00000040052123
+    },
+    "fills": []
+  },
+  {
+    "id": "I4415:6326;3:559",
+    "name": "Vector 9",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 1335.9999995994788,
+      "y": 17.99999959947877,
+      "width": 8.00000040052123,
+      "height": 8.00000040052123
+    },
+    "fills": []
+  },
+  {
+    "id": "I4415:6326;3:556",
+    "name": "Subtract",
+    "type": "BOOLEAN_OPERATION",
+    "absoluteBoundingBox": {
+      "x": 1331,
+      "y": 13,
+      "width": 18,
+      "height": 18
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6326",
+    "name": "Close_round_fill",
+    "type": "INSTANCE",
+    "absoluteBoundingBox": {
+      "x": 1328,
+      "y": 10,
+      "width": 24,
+      "height": 24
+    },
+    "fills": []
+  },
+  {
+    "id": "4415:6327",
+    "name": "de Democracia Ambiental",
+    "type": "TEXT",
+    "absoluteBoundingBox": {
+      "x": 93,
+      "y": 2430,
+      "width": 723,
+      "height": 25
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 1
+        }
+      }
+    ],
+    "style": {
+      "fontFamily": "Geologica",
+      "fontSize": 20
+    }
+  },
+  {
+    "id": "4415:6328",
+    "name": "Suscríbete al Newletter",
+    "type": "TEXT",
+    "absoluteBoundingBox": {
+      "x": 92,
+      "y": 2408,
+      "width": 334,
+      "height": 25
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 1
+        }
+      }
+    ],
+    "style": {
+      "fontFamily": "Geologica",
+      "fontSize": 20
+    }
+  },
+  {
+    "id": "4415:6329",
+    "name": "cultureza@ciudadaniai.org",
+    "type": "TEXT",
+    "absoluteBoundingBox": {
+      "x": 126,
+      "y": 2554,
+      "width": 323,
+      "height": 25
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 1
+        }
+      }
+    ],
+    "style": {
+      "fontFamily": "Geologica",
+      "fontSize": 16
+    }
+  },
+  {
+    "id": "I4415:6330;12:777",
+    "name": "Rectangle 1",
+    "type": "RECTANGLE",
+    "absoluteBoundingBox": {
+      "x": 93.33333587646484,
+      "y": 2558,
+      "width": 21.33333396911621,
+      "height": 16
+    },
+    "fills": []
+  },
+  {
+    "id": "I4415:6330;12:778",
+    "name": "Vector 3",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 93.33333587646484,
+      "y": 2562,
+      "width": 21.33333396911621,
+      "height": 5.333333492279053
+    },
+    "fills": []
+  },
+  {
+    "id": "4415:6330",
+    "name": "Message",
+    "type": "INSTANCE",
+    "absoluteBoundingBox": {
+      "x": 88,
+      "y": 2550,
+      "width": 32,
+      "height": 32
+    },
+    "fills": []
+  },
+  {
+    "id": "4415:6333",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 1215.56689453125,
+      "y": 2538.393798828125,
+      "width": 4.23145866394043,
+      "height": 3.83223295211792
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6334",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 1211.796875,
+      "y": 2543.939208984375,
+      "width": 11.539191246032715,
+      "height": 14.120331764221191
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6335",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 1227.029541015625,
+      "y": 2543.937744140625,
+      "width": 12.44671630859375,
+      "height": 14.426505088806152
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6336",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 1242.676513671875,
+      "y": 2538,
+      "width": 12.666717529296875,
+      "height": 20.324310302734375
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6337",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 1258.753173828125,
+      "y": 2543.6416015625,
+      "width": 12.922834396362305,
+      "height": 14.716805458068848
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6338",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 1274.847900390625,
+      "y": 2538,
+      "width": 12.672919273376465,
+      "height": 20.324373245239258
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6339",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 1290.9617919921875,
+      "y": 2543.6416015625,
+      "width": 12.887712478637695,
+      "height": 14.716760635375977
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6340",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 1307.4130859375,
+      "y": 2543.70703125,
+      "width": 12.645417213439941,
+      "height": 14.386602401733398
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6341",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 1324.282470703125,
+      "y": 2543.939208984375,
+      "width": 11.968720436096191,
+      "height": 14.120331764221191
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6342",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 1328.8759765625,
+      "y": 2538.527099609375,
+      "width": 6.446937561035156,
+      "height": 3.6619722843170166
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6343",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 1339.2265625,
+      "y": 2543.6416015625,
+      "width": 12.896000862121582,
+      "height": 14.716824531555176
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6344",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 1355.7919921875,
+      "y": 2558.0595703125,
+      "width": 11.935660362243652,
+      "height": 2.8376646041870117
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6345",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 1195.428955078125,
+      "y": 2564.8876953125,
+      "width": 11.01055908203125,
+      "height": 19.037303924560547
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6346",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 1211.337646484375,
+      "y": 2569.5390625,
+      "width": 12.674330711364746,
+      "height": 14.452644348144531
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6347",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 1243.1678466796875,
+      "y": 2569.54150390625,
+      "width": 13.39346694946289,
+      "height": 14.681310653686523
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6348",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 1259.671630859375,
+      "y": 2563.86669921875,
+      "width": 12.003824234008789,
+      "height": 20.0594425201416
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6349",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 1275.4110107421875,
+      "y": 2569.805908203125,
+      "width": 11.53919792175293,
+      "height": 14.12032699584961
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6350",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 1279.1463623046875,
+      "y": 2564.21044921875,
+      "width": 4.233531475067139,
+      "height": 3.8992998600006104
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6351",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 1307.252685546875,
+      "y": 2569.54150390625,
+      "width": 13.39342212677002,
+      "height": 14.681280136108398
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6352",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 1324.33642578125,
+      "y": 2569.5390625,
+      "width": 12.676383018493652,
+      "height": 14.45255184173584
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6353",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 1355.328857421875,
+      "y": 2569.54150390625,
+      "width": 13.37161636352539,
+      "height": 14.681300163269043
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6354",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 1290.2191162109375,
+      "y": 2569.5068359375,
+      "width": 12.834264755249023,
+      "height": 19.493093490600586
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6355",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 1340.0859375,
+      "y": 2566.341064453125,
+      "width": 12.173164367675781,
+      "height": 17.626449584960938
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6356",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 1227.3040771484375,
+      "y": 2566.341064453125,
+      "width": 12.169017791748047,
+      "height": 17.626482009887695
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6357",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 1194,
+      "y": 2538.8017578125,
+      "width": 13.863200187683105,
+      "height": 19.53026580810547
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6332",
+    "name": "Group 4",
+    "type": "GROUP",
+    "absoluteBoundingBox": {
+      "x": 1194,
+      "y": 2538,
+      "width": 174.70053100585938,
+      "height": 51
+    },
+    "fills": []
+  },
+  {
+    "id": "4415:6358",
+    "name": "Subtract",
+    "type": "BOOLEAN_OPERATION",
+    "absoluteBoundingBox": null,
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6331",
+    "name": "Group 320",
+    "type": "GROUP",
+    "absoluteBoundingBox": {
+      "x": 1194,
+      "y": 2538,
+      "width": 174.70053100585938,
+      "height": 51
+    },
+    "fills": []
+  },
+  {
+    "id": "4415:6359",
+    "name": "Rectangle 567",
+    "type": "RECTANGLE",
+    "absoluteBoundingBox": {
+      "x": 463,
+      "y": 2407,
+      "width": 591,
+      "height": 50
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6360",
+    "name": "Escribe tu correo aquí",
+    "type": "TEXT",
+    "absoluteBoundingBox": {
+      "x": 480,
+      "y": 2420,
+      "width": 186,
+      "height": 23
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 0.3960784375667572,
+          "g": 0.3450980484485626,
+          "b": 0.27450981736183167,
+          "a": 1
+        }
+      }
+    ],
+    "style": {
+      "fontFamily": "Geologica",
+      "fontSize": 18
+    }
+  },
+  {
+    "id": "I4415:6361;3:492",
+    "name": "Protégete",
+    "type": "TEXT",
+    "absoluteBoundingBox": {
+      "x": 1173.3814697265625,
+      "y": 2417.5029296875,
+      "width": 139,
+      "height": 25
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 0.27211540937423706,
+          "g": 0.27211540937423706,
+          "b": 0.27211540937423706,
+          "a": 1
+        }
+      }
+    ],
+    "style": {
+      "fontFamily": "Geologica",
+      "fontSize": 20.254335403442383
+    }
+  },
+  {
+    "id": "4415:6361",
+    "name": "Frame 9",
+    "type": "INSTANCE",
+    "absoluteBoundingBox": {
+      "x": 1143,
+      "y": 2404,
+      "width": 199.76300048828125,
+      "height": 52.00578308105469
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 0.7098039388656616,
+          "g": 0.9058823585510254,
+          "b": 0.13333334028720856,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6362",
+    "name": "Más información",
+    "type": "TEXT",
+    "absoluteBoundingBox": {
+      "x": 711,
+      "y": 91,
+      "width": 156,
+      "height": 28
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 1
+        }
+      }
+    ],
+    "style": {
+      "fontFamily": "REM",
+      "fontSize": 20
+    }
+  },
+  {
+    "id": "4415:6363",
+    "name": "Sobre Ciudadanía Inteligente",
+    "type": "TEXT",
+    "absoluteBoundingBox": {
+      "x": 908,
+      "y": 91,
+      "width": 273,
+      "height": 28
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 1
+        }
+      }
+    ],
+    "style": {
+      "fontFamily": "REM",
+      "fontSize": 20
+    }
+  },
+  {
+    "id": "I4415:6364;326:276",
+    "name": "Label",
+    "type": "TEXT",
+    "absoluteBoundingBox": {
+      "x": 1256,
+      "y": 91,
+      "width": 91,
+      "height": 28
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 1
+        }
+      }
+    ],
+    "style": {
+      "fontFamily": "REM",
+      "fontSize": 20
+    }
+  },
+  {
+    "id": "4415:6364",
+    "name": "Button",
+    "type": "INSTANCE",
+    "absoluteBoundingBox": {
+      "x": 1221,
+      "y": 71,
+      "width": 161,
+      "height": 68
+    },
+    "fills": []
+  },
+  {
+    "id": "4415:6368",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 124.39324188232422,
+      "y": 67.48193359375,
+      "width": 5.178400039672852,
+      "height": 4.689833164215088
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6369",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 119.7795639038086,
+      "y": 74.26822662353516,
+      "width": 14.121500968933105,
+      "height": 17.280263900756836
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6370",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 138.42108154296875,
+      "y": 74.26665496826172,
+      "width": 15.23211669921875,
+      "height": 17.65495491027832
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6371",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 157.56964111328125,
+      "y": 67,
+      "width": 15.501351356506348,
+      "height": 24.87260627746582
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6372",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 177.2440948486328,
+      "y": 73.9040298461914,
+      "width": 15.814784049987793,
+      "height": 18.01021957397461
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6373",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 196.94052124023438,
+      "y": 67,
+      "width": 15.508941650390625,
+      "height": 24.872684478759766
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6374",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 216.66049194335938,
+      "y": 73.9040298461914,
+      "width": 15.771801948547363,
+      "height": 18.01016616821289
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6375",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 236.79331970214844,
+      "y": 73.98409271240234,
+      "width": 15.475284576416016,
+      "height": 17.606122970581055
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6376",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 257.43792724609375,
+      "y": 74.26822662353516,
+      "width": 14.647151947021484,
+      "height": 17.280263900756836
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6377",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 263.0594177246094,
+      "y": 67.64519500732422,
+      "width": 7.889671802520752,
+      "height": 4.481470108032227
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6378",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 275.7262268066406,
+      "y": 73.9040298461914,
+      "width": 15.78194522857666,
+      "height": 18.010244369506836
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6379",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 295.998779296875,
+      "y": 91.54871368408203,
+      "width": 14.606694221496582,
+      "height": 3.4726943969726562
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6380",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 99.74877166748047,
+      "y": 99.90482330322266,
+      "width": 13.474568367004395,
+      "height": 23.297584533691406
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6381",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 119.21757507324219,
+      "y": 105.59695434570312,
+      "width": 15.51066780090332,
+      "height": 17.68694305419922
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6382",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 158.17088317871094,
+      "y": 105.60009765625,
+      "width": 16.390737533569336,
+      "height": 17.966781616210938
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6383",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 178.36807250976562,
+      "y": 98.6552505493164,
+      "width": 14.690112113952637,
+      "height": 24.548465728759766
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6384",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 197.62966918945312,
+      "y": 105.92347717285156,
+      "width": 14.121508598327637,
+      "height": 17.280258178710938
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6385",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 202.20095825195312,
+      "y": 99.07595825195312,
+      "width": 5.180936336517334,
+      "height": 4.771908283233643
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6386",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 236.5970916748047,
+      "y": 105.60009765625,
+      "width": 16.390682220458984,
+      "height": 17.966745376586914
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6387",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 257.50384521484375,
+      "y": 105.59695434570312,
+      "width": 15.51318073272705,
+      "height": 17.686830520629883
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6388",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 295.43206787109375,
+      "y": 105.60009765625,
+      "width": 16.363996505737305,
+      "height": 17.96677017211914
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6389",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 215.75157165527344,
+      "y": 105.55770874023438,
+      "width": 15.706393241882324,
+      "height": 23.85537338256836
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6390",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 276.77801513671875,
+      "y": 101.68341827392578,
+      "width": 14.897348403930664,
+      "height": 21.571002960205078
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6391",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 138.75701904296875,
+      "y": 101.68341827392578,
+      "width": 14.892273902893066,
+      "height": 21.571043014526367
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6392",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 98,
+      "y": 67.98113250732422,
+      "width": 16.965591430664062,
+      "height": 23.900867462158203
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6367",
+    "name": "Group 4",
+    "type": "GROUP",
+    "absoluteBoundingBox": {
+      "x": 98,
+      "y": 67,
+      "width": 213.7960662841797,
+      "height": 62.413082122802734
+    },
+    "fills": []
+  },
+  {
+    "id": "4415:6393",
+    "name": "Subtract",
+    "type": "BOOLEAN_OPERATION",
+    "absoluteBoundingBox": null,
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6366",
+    "name": "Group 320",
+    "type": "GROUP",
+    "absoluteBoundingBox": {
+      "x": 98,
+      "y": 67,
+      "width": 213.7960662841797,
+      "height": 62.413082122802734
+    },
+    "fills": []
+  },
+  {
+    "id": "4415:6365",
+    "name": "Frame 10",
+    "type": "FRAME",
+    "absoluteBoundingBox": {
+      "x": 98,
+      "y": 57,
+      "width": 213.7960662841797,
+      "height": 82.4130859375
+    },
+    "fills": []
+  },
+  {
+    "id": "4415:6395",
+    "name": "Cuentos de la Cultureza",
+    "type": "TEXT",
+    "absoluteBoundingBox": {
+      "x": 98,
+      "y": 289.00006103515625,
+      "width": 902,
+      "height": 230
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 1
+        }
+      }
+    ],
+    "style": {
+      "fontFamily": "Bricolage Grotesque",
+      "fontSize": 128
+    }
+  },
+  {
+    "id": "4415:6396",
+    "name": "Convocatoria abierta",
+    "type": "TEXT",
+    "absoluteBoundingBox": {
+      "x": 108,
+      "y": 519.0000610351562,
+      "width": 778,
+      "height": 48
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 0.27211540937423706,
+          "g": 0.27211540937423706,
+          "b": 0.27211540937423706,
+          "a": 1
+        }
+      }
+    ],
+    "style": {
+      "fontFamily": "REM",
+      "fontSize": 40
+    }
+  },
+  {
+    "id": "4415:6394",
+    "name": "Group 1",
+    "type": "GROUP",
+    "absoluteBoundingBox": {
+      "x": 98,
+      "y": 289.00006103515625,
+      "width": 902,
+      "height": 278
+    },
+    "fills": []
+  },
+  {
+    "id": "4415:6398",
+    "name": "torn paper 3",
+    "type": "RECTANGLE",
+    "absoluteBoundingBox": {
+      "x": 709.9998574620986,
+      "y": 170.00015174199143,
+      "width": 1393.1019527617464,
+      "height": 692.0000313634773
+    },
+    "fills": [
+      {
+        "type": "IMAGE",
+        "imageRef": "cb35825bff3ba101974741171bed03d0bec1fd55"
+      }
+    ]
+  },
+  {
+    "id": "4415:6399",
+    "name": "Rectangle 1",
+    "type": "RECTANGLE",
+    "absoluteBoundingBox": {
+      "x": 731.8826904296875,
+      "y": 304.4939880371094,
+      "width": 796.27734375,
+      "height": 412.41461181640625
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 0.7098039388656616,
+          "g": 0.9058823585510254,
+          "b": 0.13333334028720856,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6397",
+    "name": "Mask group",
+    "type": "GROUP",
+    "absoluteBoundingBox": {
+      "x": 710,
+      "y": 170,
+      "width": 1393.1019287109375,
+      "height": 692.0000610351562
+    },
+    "fills": []
+  },
+  {
+    "id": "4415:6401",
+    "name": "manos planta 2",
+    "type": "RECTANGLE",
+    "absoluteBoundingBox": {
+      "x": 887.6007080078125,
+      "y": 281.76739501953125,
+      "width": 548.0150146484375,
+      "height": 356.9236145019531
+    },
+    "fills": [
+      {
+        "type": "IMAGE",
+        "imageRef": "b8fa390995c6c7115a259b4066b6862786766408"
+      }
+    ]
+  },
+  {
+    "id": "4415:6402",
+    "name": "Rectangle 2",
+    "type": "RECTANGLE",
+    "absoluteBoundingBox": {
+      "x": 823.9035034179688,
+      "y": 276.2762756347656,
+      "width": 620.4979858398438,
+      "height": 393.16510009765625
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 0.9450980424880981,
+          "g": 0.9450980424880981,
+          "b": 0.9450980424880981,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6400",
+    "name": "Mask group",
+    "type": "GROUP",
+    "absoluteBoundingBox": {
+      "x": 887.600830078125,
+      "y": 281.767578125,
+      "width": 548.0150146484375,
+      "height": 356.9236145019531
+    },
+    "fills": []
+  },
+  {
+    "id": "4415:6403",
+    "name": "manos planta 3",
+    "type": "RECTANGLE",
+    "absoluteBoundingBox": {
+      "x": 886.599609375,
+      "y": 264.9990234375,
+      "width": 549,
+      "height": 357
+    },
+    "fills": [
+      {
+        "type": "IMAGE",
+        "imageRef": "b8fa390995c6c7115a259b4066b6862786766408"
+      }
+    ]
+  },
+  {
+    "id": "4415:6404",
+    "name": "Una invitación a imaginar, escribir y compartir historias sobre los vínculos de cuidado entre las personas, las comunidades y la naturaleza en América Latina y el Caribe.",
+    "type": "TEXT",
+    "absoluteBoundingBox": {
+      "x": 112,
+      "y": 616.0000610351562,
+      "width": 671,
+      "height": 160
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 1
+        }
+      }
+    ],
+    "style": {
+      "fontFamily": "REM",
+      "fontSize": 30
+    }
+  },
+  {
+    "id": "4415:6405",
+    "name": "Rectangle 4239",
+    "type": "RECTANGLE",
+    "absoluteBoundingBox": {
+      "x": 727,
+      "y": 1169,
+      "width": 642,
+      "height": 242
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6406",
+    "name": "Rectangle 4240",
+    "type": "RECTANGLE",
+    "absoluteBoundingBox": {
+      "x": 724,
+      "y": 1164,
+      "width": 642,
+      "height": 242
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 0.3921568691730499,
+          "g": 0.3921568691730499,
+          "b": 0.3921568691730499,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6407",
+    "name": "small-green-plant-growing-from-a-mound-of-dark-soil-against-a-transparent-background-small-plant-growing-out-a-pile-dirt-background-free-png 1",
+    "type": "RECTANGLE",
+    "absoluteBoundingBox": {
+      "x": 1084,
+      "y": 1164,
+      "width": 294,
+      "height": 243
+    },
+    "fills": [
+      {
+        "type": "IMAGE",
+        "imageRef": "d081a7d1175adedded584d254280575c7e5885e5"
+      }
+    ]
+  },
+  {
+    "id": "4415:6408",
+    "name": "Rectangle 4243",
+    "type": "RECTANGLE",
+    "absoluteBoundingBox": {
+      "x": 810,
+      "y": 1203,
+      "width": 234,
+      "height": 56
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 0.7098039388656616,
+          "g": 0.9058823585510254,
+          "b": 0.13333334028720856,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6409",
+    "name": "Rectangle 4244",
+    "type": "RECTANGLE",
+    "absoluteBoundingBox": {
+      "x": 810,
+      "y": 1262,
+      "width": 144,
+      "height": 56
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 0.7098039388656616,
+          "g": 0.9058823585510254,
+          "b": 0.13333334028720856,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6410",
+    "name": "Rectangle 4235",
+    "type": "RECTANGLE",
+    "absoluteBoundingBox": {
+      "x": 108,
+      "y": 906,
+      "width": 725,
+      "height": 62
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 0.49803921580314636,
+          "g": 0.22745098173618317,
+          "b": 0.929411768913269,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6411",
+    "name": "Rectangle 4167",
+    "type": "RECTANGLE",
+    "absoluteBoundingBox": {
+      "x": 64,
+      "y": 1164,
+      "width": 642,
+      "height": 242
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6412",
+    "name": "Rectangle 4238",
+    "type": "RECTANGLE",
+    "absoluteBoundingBox": {
+      "x": 61,
+      "y": 1159,
+      "width": 642,
+      "height": 242
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 0.7098039388656616,
+          "g": 0.9058823585510254,
+          "b": 0.13333334028720856,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6413",
+    "name": "Rectangle 4241",
+    "type": "RECTANGLE",
+    "absoluteBoundingBox": {
+      "x": 137,
+      "y": 1203,
+      "width": 150,
+      "height": 56
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6414",
+    "name": "Rectangle 4242",
+    "type": "RECTANGLE",
+    "absoluteBoundingBox": {
+      "x": 137,
+      "y": 1262,
+      "width": 213,
+      "height": 56
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6415",
+    "name": "Cómo participar",
+    "type": "TEXT",
+    "absoluteBoundingBox": {
+      "x": 144,
+      "y": 1207,
+      "width": 224,
+      "height": 105
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 0.27211540937423706,
+          "g": 0.27211540937423706,
+          "b": 0.27211540937423706,
+          "a": 1
+        }
+      }
+    ],
+    "style": {
+      "fontFamily": "REM",
+      "fontSize": 40
+    }
+  },
+  {
+    "id": "4415:6416",
+    "name": "Revisar las bases",
+    "type": "TEXT",
+    "absoluteBoundingBox": {
+      "x": 816,
+      "y": 1207,
+      "width": 224,
+      "height": 105
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 1
+        }
+      }
+    ],
+    "style": {
+      "fontFamily": "REM",
+      "fontSize": 40
+    }
+  },
+  {
+    "id": "4415:6417",
+    "name": "Rectangle 4236",
+    "type": "RECTANGLE",
+    "absoluteBoundingBox": {
+      "x": 108,
+      "y": 978,
+      "width": 537,
+      "height": 63
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 0.49803921580314636,
+          "g": 0.22745098173618317,
+          "b": 0.929411768913269,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6418",
+    "name": "Sólo tener una historia que contar",
+    "type": "TEXT",
+    "absoluteBoundingBox": {
+      "x": 122.99958792932053,
+      "y": 988.4033203125,
+      "width": 1437.383935075129,
+      "height": 49.44275304056214
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 0.9450980424880981,
+          "g": 0.9450980424880981,
+          "b": 0.9450980424880981,
+          "a": 1
+        }
+      }
+    ],
+    "style": {
+      "fontFamily": "REM",
+      "fontSize": 30
+    }
+  },
+  {
+    "id": "4415:6419",
+    "name": "Click aquí",
+    "type": "TEXT",
+    "absoluteBoundingBox": {
+      "x": 189,
+      "y": 1342,
+      "width": 134,
+      "height": 39
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 1
+        }
+      }
+    ],
+    "style": {
+      "fontFamily": "REM",
+      "fontSize": 30
+    }
+  },
+  {
+    "id": "4415:6420",
+    "name": "Click aquí",
+    "type": "TEXT",
+    "absoluteBoundingBox": {
+      "x": 854,
+      "y": 1342,
+      "width": 134,
+      "height": 39
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 1
+        }
+      }
+    ],
+    "style": {
+      "fontFamily": "REM",
+      "fontSize": 30
+    }
+  },
+  {
+    "id": "I4415:6421;12:749",
+    "name": "Vector 9",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 157.327073097229,
+      "y": 1353.884765625,
+      "width": 8.884734153747559,
+      "height": 17.769468307495117
+    },
+    "fills": []
+  },
+  {
+    "id": "4415:6421",
+    "name": "Expand_right",
+    "type": "INSTANCE",
+    "absoluteBoundingBox": {
+      "x": 144,
+      "y": 1345,
+      "width": 35.538936614990234,
+      "height": 35.538936614990234
+    },
+    "fills": []
+  },
+  {
+    "id": "I4415:6422;12:749",
+    "name": "Vector 9",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 831.3270578384399,
+      "y": 1353.884765625,
+      "width": 8.884734153747559,
+      "height": 17.769468307495117
+    },
+    "fills": []
+  },
+  {
+    "id": "4415:6422",
+    "name": "Expand_right",
+    "type": "INSTANCE",
+    "absoluteBoundingBox": {
+      "x": 818,
+      "y": 1345,
+      "width": 35.538936614990234,
+      "height": 35.538936614990234
+    },
+    "fills": []
+  },
+  {
+    "id": "4415:6423",
+    "name": "No necesitas ser escritor o escritora profesional",
+    "type": "TEXT",
+    "absoluteBoundingBox": {
+      "x": 122.98246238314108,
+      "y": 915,
+      "width": 1437.4010671613103,
+      "height": 48.80866398281171
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 0.9450980424880981,
+          "g": 0.9450980424880981,
+          "b": 0.9450980424880981,
+          "a": 1
+        }
+      }
+    ],
+    "style": {
+      "fontFamily": "REM",
+      "fontSize": 30
+    }
+  },
+  {
+    "id": "4415:6424",
+    "name": "Cierre: 30 de diciembre de 2026",
+    "type": "TEXT",
+    "absoluteBoundingBox": {
+      "x": 108,
+      "y": 825,
+      "width": 545,
+      "height": 45
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 0.49803921580314636,
+          "g": 0.22745098173618317,
+          "b": 0.929411768913269,
+          "a": 1
+        }
+      }
+    ],
+    "style": {
+      "fontFamily": "REM",
+      "fontSize": 35
+    }
+  },
+  {
+    "id": "4415:6426",
+    "name": "destacador 2",
+    "type": "RECTANGLE",
+    "absoluteBoundingBox": {
+      "x": 222,
+      "y": 1541,
+      "width": 265.32000732421875,
+      "height": 54
+    },
+    "fills": [
+      {
+        "type": "IMAGE",
+        "imageRef": "be1f7fa8fbb5ea5943edef323e779d40301b96e4"
+      }
+    ]
+  },
+  {
+    "id": "4415:6427",
+    "name": "Rectangle 30",
+    "type": "RECTANGLE",
+    "absoluteBoundingBox": {
+      "x": 223.740234375,
+      "y": 1529.54541015625,
+      "width": 296.6364440917969,
+      "height": 89.18181610107422
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 0.49803921580314636,
+          "g": 0.22745098173618317,
+          "b": 0.929411768913269,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6425",
+    "name": "Mask group",
+    "type": "GROUP",
+    "absoluteBoundingBox": {
+      "x": 222,
+      "y": 1541,
+      "width": 265.32000732421875,
+      "height": 54
+    },
+    "fills": []
+  },
+  {
+    "id": "4415:6429",
+    "name": "Cultureza nos invita a mirar los vínculos que construimos con los territorios que habitamos, los seres vivos que nos rodean y las comunidades de las que somos parte.",
+    "type": "TEXT",
+    "absoluteBoundingBox": {
+      "x": 252.1199951171875,
+      "y": 1536,
+      "width": 719.84375,
+      "height": 354
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 0.27211540937423706,
+          "g": 0.27211540937423706,
+          "b": 0.27211540937423706,
+          "a": 1
+        }
+      }
+    ],
+    "style": {
+      "fontFamily": "REM",
+      "fontSize": 38
+    }
+  },
+  {
+    "id": "4415:6430",
+    "name": "Un río que alimenta, una huerta que se comparte, los saberes que pasan generaciones o una comunidad que se organiza para proteger su entorno.",
+    "type": "TEXT",
+    "absoluteBoundingBox": {
+      "x": 623,
+      "y": 1890,
+      "width": 577.219970703125,
+      "height": 275
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 0.27211540937423706,
+          "g": 0.27211540937423706,
+          "b": 0.27211540937423706,
+          "a": 1
+        }
+      }
+    ],
+    "style": {
+      "fontFamily": "REM",
+      "fontSize": 38
+    }
+  },
+  {
+    "id": "4415:6428",
+    "name": "Group 32",
+    "type": "GROUP",
+    "absoluteBoundingBox": {
+      "x": 252.1201171875,
+      "y": 1536,
+      "width": 948.099853515625,
+      "height": 629
+    },
+    "fills": []
+  },
+  {
+    "id": "4415:6431",
+    "name": "hoja",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 670,
+      "y": 2525,
+      "width": 108,
+      "height": 68
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6434",
+    "name": "fruta 1",
+    "type": "RECTANGLE",
+    "absoluteBoundingBox": {
+      "x": 398.00469970703125,
+      "y": 1166.06005859375,
+      "width": 306.55120849609375,
+      "height": 174.99143981933594
+    },
+    "fills": [
+      {
+        "type": "IMAGE",
+        "imageRef": "f63fe9df158a09dda100d8477b6fd5f312bcb518"
+      }
+    ]
+  },
+  {
+    "id": "4415:6435",
+    "name": "Rectangle 3",
+    "type": "RECTANGLE",
+    "absoluteBoundingBox": {
+      "x": 390.4140930175781,
+      "y": 1166.06005859375,
+      "width": 273.2395935058594,
+      "height": 168.6664581298828
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 0.9450980424880981,
+          "g": 0.9450980424880981,
+          "b": 0.9450980424880981,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6433",
+    "name": "Mask group",
+    "type": "GROUP",
+    "absoluteBoundingBox": {
+      "x": 398.00469970703125,
+      "y": 1166.06005859375,
+      "width": 306.55120849609375,
+      "height": 174.99143981933594
+    },
+    "fills": []
+  },
+  {
+    "id": "4415:6436",
+    "name": "fruta 2",
+    "type": "RECTANGLE",
+    "absoluteBoundingBox": {
+      "x": 396.7399597167969,
+      "y": 1161,
+      "width": 306.4790344238281,
+      "height": 175.03271484375
+    },
+    "fills": [
+      {
+        "type": "IMAGE",
+        "imageRef": "f63fe9df158a09dda100d8477b6fd5f312bcb518"
+      }
+    ]
+  },
+  {
+    "id": "4415:6432",
+    "name": "fruta y sombra",
+    "type": "GROUP",
+    "absoluteBoundingBox": {
+      "x": 396.74017333984375,
+      "y": 1161,
+      "width": 307.8159484863281,
+      "height": 180.05149841308594
+    },
+    "fills": []
+  },
+  {
+    "id": "4415:6318",
+    "name": "Inicio",
+    "type": "FRAME",
+    "absoluteBoundingBox": {
+      "x": 0,
+      "y": 0,
+      "width": 1440,
+      "height": 2678
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6438",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 3061.999925122397,
+      "y": 0.00003748877088582958,
+      "width": 1935.0001969479154,
+      "height": 1712.9999625112291
+    },
+    "fills": []
+  },
+  {
+    "id": "4415:6439",
+    "name": "68095F25-3E50-4A38-BE88-712F135A019E 1",
+    "type": "RECTANGLE",
+    "absoluteBoundingBox": {
+      "x": 3062,
+      "y": 0,
+      "width": 1440,
+      "height": 960
+    },
+    "fills": [
+      {
+        "type": "IMAGE",
+        "imageRef": "fa91ae43cdeb44f39f471198c14f9cfd61132ff9"
+      }
+    ]
+  },
+  {
+    "id": "4415:6440",
+    "name": "Rectangle 4166",
+    "type": "RECTANGLE",
+    "absoluteBoundingBox": {
+      "x": 3111,
+      "y": 1614,
+      "width": 1337,
+      "height": 140
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 0.49803921580314636,
+          "g": 0.22745098173618317,
+          "b": 0.929411768913269,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6441",
+    "name": "Rectangle 4155",
+    "type": "RECTANGLE",
+    "absoluteBoundingBox": {
+      "x": 3062,
+      "y": 1872,
+      "width": 1440,
+      "height": 44
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 0.27211540937423706,
+          "g": 0.27211540937423706,
+          "b": 0.27211540937423706,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6442",
+    "name": "Rectangle 4156",
+    "type": "RECTANGLE",
+    "absoluteBoundingBox": {
+      "x": 3062,
+      "y": 1710,
+      "width": 1440,
+      "height": 162
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 0.27211540937423706,
+          "g": 0.27211540937423706,
+          "b": 0.27211540937423706,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6443",
+    "name": "Cultureza: Cuidar las personas, cuidar la naturaleza - de Ciudadanía Inteligente | 2026 Todos los derechos reservados",
+    "type": "TEXT",
+    "absoluteBoundingBox": {
+      "x": 3062,
+      "y": 1886,
+      "width": 1440,
+      "height": 30
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 1
+        }
+      }
+    ],
+    "style": {
+      "fontFamily": "Geologica",
+      "fontSize": 14
+    }
+  },
+  {
+    "id": "4415:6444",
+    "name": "Un proyecto de",
+    "type": "TEXT",
+    "absoluteBoundingBox": {
+      "x": 4099,
+      "y": 1789,
+      "width": 134,
+      "height": 17
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 1
+        }
+      }
+    ],
+    "style": {
+      "fontFamily": "Geologica",
+      "fontSize": 16
+    }
+  },
+  {
+    "id": "4415:6445",
+    "name": "Contáctanos:",
+    "type": "TEXT",
+    "absoluteBoundingBox": {
+      "x": 3154,
+      "y": 1768,
+      "width": 134,
+      "height": 17
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 1
+        }
+      }
+    ],
+    "style": {
+      "fontFamily": "Geologica",
+      "fontSize": 16
+    }
+  },
+  {
+    "id": "4415:6446",
+    "name": "de Democracia Ambiental",
+    "type": "TEXT",
+    "absoluteBoundingBox": {
+      "x": 3155,
+      "y": 1668,
+      "width": 723,
+      "height": 25
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 1
+        }
+      }
+    ],
+    "style": {
+      "fontFamily": "Geologica",
+      "fontSize": 20
+    }
+  },
+  {
+    "id": "4415:6447",
+    "name": "Suscríbete al Newletter",
+    "type": "TEXT",
+    "absoluteBoundingBox": {
+      "x": 3154,
+      "y": 1646,
+      "width": 334,
+      "height": 25
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 1
+        }
+      }
+    ],
+    "style": {
+      "fontFamily": "Geologica",
+      "fontSize": 20
+    }
+  },
+  {
+    "id": "4415:6448",
+    "name": "cultureza@ciudadaniai.org",
+    "type": "TEXT",
+    "absoluteBoundingBox": {
+      "x": 3188,
+      "y": 1792,
+      "width": 323,
+      "height": 25
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 1
+        }
+      }
+    ],
+    "style": {
+      "fontFamily": "Geologica",
+      "fontSize": 16
+    }
+  },
+  {
+    "id": "4415:6451",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 4277.56689453125,
+      "y": 1776.393798828125,
+      "width": 4.23145866394043,
+      "height": 3.83223295211792
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6452",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 4273.796875,
+      "y": 1781.9390869140625,
+      "width": 11.539191246032715,
+      "height": 14.120331764221191
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6453",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 4289.029296875,
+      "y": 1781.9378662109375,
+      "width": 12.44671630859375,
+      "height": 14.426505088806152
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6454",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 4304.6767578125,
+      "y": 1776,
+      "width": 12.666717529296875,
+      "height": 20.324310302734375
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6455",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 4320.75341796875,
+      "y": 1781.6414794921875,
+      "width": 12.922834396362305,
+      "height": 14.716805458068848
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6456",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 4336.84765625,
+      "y": 1776,
+      "width": 12.672919273376465,
+      "height": 20.324373245239258
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6457",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 4352.9619140625,
+      "y": 1781.6414794921875,
+      "width": 12.887712478637695,
+      "height": 14.716760635375977
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6458",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 4369.4130859375,
+      "y": 1781.7069091796875,
+      "width": 12.645417213439941,
+      "height": 14.386602401733398
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6459",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 4386.28271484375,
+      "y": 1781.9390869140625,
+      "width": 11.968720436096191,
+      "height": 14.120331764221191
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6460",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 4390.8759765625,
+      "y": 1776.5272216796875,
+      "width": 6.446937561035156,
+      "height": 3.6619722843170166
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6461",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 4401.2265625,
+      "y": 1781.6414794921875,
+      "width": 12.896000862121582,
+      "height": 14.716824531555176
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6462",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 4417.7919921875,
+      "y": 1796.0596923828125,
+      "width": 11.935660362243652,
+      "height": 2.8376646041870117
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6463",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 4257.42919921875,
+      "y": 1802.8876953125,
+      "width": 11.01055908203125,
+      "height": 19.037303924560547
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6464",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 4273.337890625,
+      "y": 1807.5389404296875,
+      "width": 12.674330711364746,
+      "height": 14.452644348144531
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6465",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 4305.16796875,
+      "y": 1807.54150390625,
+      "width": 13.39346694946289,
+      "height": 14.681310653686523
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6466",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 4321.671875,
+      "y": 1801.86669921875,
+      "width": 12.003824234008789,
+      "height": 20.0594425201416
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6467",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 4337.4111328125,
+      "y": 1807.8057861328125,
+      "width": 11.53919792175293,
+      "height": 14.12032699584961
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6468",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 4341.146484375,
+      "y": 1802.21044921875,
+      "width": 4.233531475067139,
+      "height": 3.8992998600006104
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6469",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 4369.2529296875,
+      "y": 1807.54150390625,
+      "width": 13.39342212677002,
+      "height": 14.681280136108398
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6470",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 4386.33642578125,
+      "y": 1807.5389404296875,
+      "width": 12.676383018493652,
+      "height": 14.45255184173584
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6471",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 4417.3291015625,
+      "y": 1807.54150390625,
+      "width": 13.37161636352539,
+      "height": 14.681300163269043
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6472",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 4352.21923828125,
+      "y": 1807.5069580078125,
+      "width": 12.834264755249023,
+      "height": 19.493093490600586
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6473",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 4402.0859375,
+      "y": 1804.341064453125,
+      "width": 12.173164367675781,
+      "height": 17.626449584960938
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6474",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 4289.30419921875,
+      "y": 1804.341064453125,
+      "width": 12.169017791748047,
+      "height": 17.626482009887695
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6475",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 4256,
+      "y": 1776.8017578125,
+      "width": 13.863200187683105,
+      "height": 19.53026580810547
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6450",
+    "name": "Group 4",
+    "type": "GROUP",
+    "absoluteBoundingBox": {
+      "x": 4256,
+      "y": 1776,
+      "width": 174.70053100585938,
+      "height": 51
+    },
+    "fills": []
+  },
+  {
+    "id": "4415:6476",
+    "name": "Subtract",
+    "type": "BOOLEAN_OPERATION",
+    "absoluteBoundingBox": null,
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6449",
+    "name": "Group 320",
+    "type": "GROUP",
+    "absoluteBoundingBox": {
+      "x": 4256,
+      "y": 1776,
+      "width": 174.70053100585938,
+      "height": 51
+    },
+    "fills": []
+  },
+  {
+    "id": "4415:6477",
+    "name": "Rectangle 567",
+    "type": "RECTANGLE",
+    "absoluteBoundingBox": {
+      "x": 3525,
+      "y": 1645,
+      "width": 591,
+      "height": 50
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6478",
+    "name": "Escribe tu correo aquí",
+    "type": "TEXT",
+    "absoluteBoundingBox": {
+      "x": 3542,
+      "y": 1658,
+      "width": 186,
+      "height": 23
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 0.3960784375667572,
+          "g": 0.3450980484485626,
+          "b": 0.27450981736183167,
+          "a": 1
+        }
+      }
+    ],
+    "style": {
+      "fontFamily": "Geologica",
+      "fontSize": 18
+    }
+  },
+  {
+    "id": "I4415:6479;3:492",
+    "name": "Protégete",
+    "type": "TEXT",
+    "absoluteBoundingBox": {
+      "x": 4235.38134765625,
+      "y": 1655.5029296875,
+      "width": 139,
+      "height": 25
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 0.27211540937423706,
+          "g": 0.27211540937423706,
+          "b": 0.27211540937423706,
+          "a": 1
+        }
+      }
+    ],
+    "style": {
+      "fontFamily": "Geologica",
+      "fontSize": 20.254335403442383
+    }
+  },
+  {
+    "id": "4415:6479",
+    "name": "Frame 9",
+    "type": "INSTANCE",
+    "absoluteBoundingBox": {
+      "x": 4205,
+      "y": 1642,
+      "width": 199.76300048828125,
+      "height": 52.00578308105469
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 0.7098039388656616,
+          "g": 0.9058823585510254,
+          "b": 0.13333334028720856,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6480",
+    "name": "hoja",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 3732,
+      "y": 1763,
+      "width": 108,
+      "height": 68
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "I4415:6481;3:557",
+    "name": "Ellipse 47",
+    "type": "ELLIPSE",
+    "absoluteBoundingBox": {
+      "x": 4393,
+      "y": 13,
+      "width": 18,
+      "height": 18
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 0.7987847328186035,
+          "g": 0.8253224492073059,
+          "b": 0.8916666507720947,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "I4415:6481;3:558",
+    "name": "Vector 8",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 4398,
+      "y": 17.99999959947877,
+      "width": 8.000000400521458,
+      "height": 8.00000040052123
+    },
+    "fills": []
+  },
+  {
+    "id": "I4415:6481;3:559",
+    "name": "Vector 9",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 4397.9999995994785,
+      "y": 17.99999959947877,
+      "width": 8.000000400521458,
+      "height": 8.00000040052123
+    },
+    "fills": []
+  },
+  {
+    "id": "I4415:6481;3:556",
+    "name": "Subtract",
+    "type": "BOOLEAN_OPERATION",
+    "absoluteBoundingBox": {
+      "x": 4393,
+      "y": 13,
+      "width": 18,
+      "height": 18
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6481",
+    "name": "Close_round_fill",
+    "type": "INSTANCE",
+    "absoluteBoundingBox": {
+      "x": 4390,
+      "y": 10,
+      "width": 24,
+      "height": 24
+    },
+    "fills": []
+  },
+  {
+    "id": "4415:6484",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 3214.393310546875,
+      "y": 105.48193359375,
+      "width": 5.178400039672852,
+      "height": 4.689833164215088
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6485",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 3209.779541015625,
+      "y": 112.26822662353516,
+      "width": 14.121500968933105,
+      "height": 17.280263900756836
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6486",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 3228.421142578125,
+      "y": 112.26665496826172,
+      "width": 15.23211669921875,
+      "height": 17.65495491027832
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6487",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 3247.569580078125,
+      "y": 105,
+      "width": 15.501351356506348,
+      "height": 24.87260627746582
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6488",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 3267.244140625,
+      "y": 111.9040298461914,
+      "width": 15.814784049987793,
+      "height": 18.01021957397461
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6489",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 3286.9404296875,
+      "y": 105,
+      "width": 15.508941650390625,
+      "height": 24.872684478759766
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6490",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 3306.660400390625,
+      "y": 111.9040298461914,
+      "width": 15.771801948547363,
+      "height": 18.01016616821289
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6491",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 3326.793212890625,
+      "y": 111.98409271240234,
+      "width": 15.475284576416016,
+      "height": 17.606122970581055
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6492",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 3347.43798828125,
+      "y": 112.26822662353516,
+      "width": 14.647151947021484,
+      "height": 17.280263900756836
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6493",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 3353.059326171875,
+      "y": 105.64519500732422,
+      "width": 7.889671802520752,
+      "height": 4.481470108032227
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6494",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 3365.726318359375,
+      "y": 111.9040298461914,
+      "width": 15.78194522857666,
+      "height": 18.010244369506836
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6495",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 3385.998779296875,
+      "y": 129.5487060546875,
+      "width": 14.606694221496582,
+      "height": 3.4726943969726562
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6496",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 3189.748779296875,
+      "y": 137.90481567382812,
+      "width": 13.474568367004395,
+      "height": 23.297584533691406
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6497",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 3209.217529296875,
+      "y": 143.59695434570312,
+      "width": 15.51066780090332,
+      "height": 17.68694305419922
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6498",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 3248.1708984375,
+      "y": 143.60009765625,
+      "width": 16.390737533569336,
+      "height": 17.966781616210938
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6499",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 3268.3681640625,
+      "y": 136.65525817871094,
+      "width": 14.690112113952637,
+      "height": 24.548465728759766
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6500",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 3287.629638671875,
+      "y": 143.92347717285156,
+      "width": 14.121508598327637,
+      "height": 17.280258178710938
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6501",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 3292.200927734375,
+      "y": 137.07595825195312,
+      "width": 5.180936336517334,
+      "height": 4.771908283233643
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6502",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 3326.59716796875,
+      "y": 143.60009765625,
+      "width": 16.390682220458984,
+      "height": 17.966745376586914
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6503",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 3347.50390625,
+      "y": 143.59695434570312,
+      "width": 15.51318073272705,
+      "height": 17.686830520629883
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6504",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 3385.43212890625,
+      "y": 143.60009765625,
+      "width": 16.363996505737305,
+      "height": 17.96677017211914
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6505",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 3305.75146484375,
+      "y": 143.55770874023438,
+      "width": 15.706393241882324,
+      "height": 23.85537338256836
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6506",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 3366.778076171875,
+      "y": 139.68341064453125,
+      "width": 14.897348403930664,
+      "height": 21.571002960205078
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6507",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 3228.757080078125,
+      "y": 139.68341064453125,
+      "width": 14.892273902893066,
+      "height": 21.571043014526367
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6508",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 3188,
+      "y": 105.98113250732422,
+      "width": 16.965591430664062,
+      "height": 23.900867462158203
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6483",
+    "name": "Group 4",
+    "type": "GROUP",
+    "absoluteBoundingBox": {
+      "x": 3188,
+      "y": 105,
+      "width": 213.79612731933594,
+      "height": 62.413082122802734
+    },
+    "fills": []
+  },
+  {
+    "id": "4415:6509",
+    "name": "Subtract",
+    "type": "BOOLEAN_OPERATION",
+    "absoluteBoundingBox": null,
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6482",
+    "name": "Group 8717",
+    "type": "GROUP",
+    "absoluteBoundingBox": {
+      "x": 3188,
+      "y": 105,
+      "width": 213.79612731933594,
+      "height": 62.413082122802734
+    },
+    "fills": []
+  },
+  {
+    "id": "I4415:6510;326:276",
+    "name": "Label",
+    "type": "TEXT",
+    "absoluteBoundingBox": {
+      "x": 4318,
+      "y": 91,
+      "width": 91,
+      "height": 28
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 1
+        }
+      }
+    ],
+    "style": {
+      "fontFamily": "REM",
+      "fontSize": 20
+    }
+  },
+  {
+    "id": "4415:6510",
+    "name": "Button",
+    "type": "INSTANCE",
+    "absoluteBoundingBox": {
+      "x": 4283,
+      "y": 71,
+      "width": 161,
+      "height": 68
+    },
+    "fills": []
+  },
+  {
+    "id": "4415:6511",
+    "name": "Sobre Ciudadanía Inteligente",
+    "type": "TEXT",
+    "absoluteBoundingBox": {
+      "x": 3970,
+      "y": 91,
+      "width": 273,
+      "height": 28
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 1
+        }
+      }
+    ],
+    "style": {
+      "fontFamily": "REM",
+      "fontSize": 20
+    }
+  },
+  {
+    "id": "4415:6512",
+    "name": "Más información",
+    "type": "TEXT",
+    "absoluteBoundingBox": {
+      "x": 3774,
+      "y": 93,
+      "width": 156,
+      "height": 28
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 1
+        }
+      }
+    ],
+    "style": {
+      "fontFamily": "REM",
+      "fontSize": 20
+    }
+  },
+  {
+    "id": "4415:6514",
+    "name": "impulsa?",
+    "type": "TEXT",
+    "absoluteBoundingBox": {
+      "x": 3550,
+      "y": 871.7578125,
+      "width": 424,
+      "height": 90
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 0.49803921580314636,
+          "g": 0.22745098173618317,
+          "b": 0.929411768913269,
+          "a": 1
+        }
+      }
+    ],
+    "style": {
+      "fontFamily": "REM",
+      "fontSize": 81.0135269165039
+    }
+  },
+  {
+    "id": "4415:6515",
+    "name": "¿Quién lo",
+    "type": "TEXT",
+    "absoluteBoundingBox": {
+      "x": 3549,
+      "y": 820,
+      "width": 427,
+      "height": 55.56849670410156
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 0.27211540937423706,
+          "g": 0.27211540937423706,
+          "b": 0.27211540937423706,
+          "a": 1
+        }
+      }
+    ],
+    "style": {
+      "fontFamily": "REM",
+      "fontSize": 45.00751876831055
+    }
+  },
+  {
+    "id": "4415:6513",
+    "name": "Group 8716",
+    "type": "GROUP",
+    "absoluteBoundingBox": {
+      "x": 3549,
+      "y": 820,
+      "width": 427,
+      "height": 141.7578125
+    },
+    "fills": []
+  },
+  {
+    "id": "4415:6516",
+    "name": "Rectangle 4158",
+    "type": "RECTANGLE",
+    "absoluteBoundingBox": {
+      "x": 3667,
+      "y": 985,
+      "width": 655,
+      "height": 268
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 0.9686274528503418,
+          "g": 0.7960784435272217,
+          "b": 0.40392157435417175,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6517",
+    "name": "Un proyecto de:",
+    "type": "TEXT",
+    "absoluteBoundingBox": {
+      "x": 3226,
+      "y": 1019,
+      "width": 379,
+      "height": 26
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 0.3960784375667572,
+          "g": 0.3450980484485626,
+          "b": 0.27450981736183167,
+          "a": 1
+        }
+      }
+    ],
+    "style": {
+      "fontFamily": "Geologica",
+      "fontSize": 20
+    }
+  },
+  {
+    "id": "4415:6518",
+    "name": "Organización latinoamericana con más de 16 años trabajando por fortalecer la democracia mediante: Ciudadanía activa y participación territorial Desarrollo de herramientas digitales Investigación y acción frente a amenazas a la democracia Alianzas estratégicas con actores locales e internacionales",
+    "type": "TEXT",
+    "absoluteBoundingBox": {
+      "x": 3699,
+      "y": 1025,
+      "width": 597,
+      "height": 182
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 0.27211540937423706,
+          "g": 0.27211540937423706,
+          "b": 0.27211540937423706,
+          "a": 1
+        }
+      }
+    ],
+    "style": {
+      "fontFamily": "Geologica",
+      "fontSize": 20
+    }
+  },
+  {
+    "id": "4415:6521",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 3261.058837890625,
+      "y": 1053.4071044921875,
+      "width": 6.878833770751953,
+      "height": 6.229835033416748
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6522",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 3254.93017578125,
+      "y": 1062.422119140625,
+      "width": 18.75858497619629,
+      "height": 22.954591751098633
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6523",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 3279.69482421875,
+      "y": 1062.4195556640625,
+      "width": 20.233896255493164,
+      "height": 23.452320098876953
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6524",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 3305.130126953125,
+      "y": 1052.767578125,
+      "width": 20.59153938293457,
+      "height": 33.0400390625
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6525",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 3331.265625,
+      "y": 1061.9375,
+      "width": 21.007892608642578,
+      "height": 23.924245834350586
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6526",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 3357.43017578125,
+      "y": 1052.767578125,
+      "width": 20.601621627807617,
+      "height": 33.040138244628906
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6527",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 3383.623779296875,
+      "y": 1061.9375,
+      "width": 20.950796127319336,
+      "height": 23.924171447753906
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6528",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 3410.368896484375,
+      "y": 1062.0445556640625,
+      "width": 20.55691146850586,
+      "height": 23.387453079223633
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6529",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 3437.79150390625,
+      "y": 1062.422119140625,
+      "width": 19.456844329833984,
+      "height": 22.954591751098633
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6530",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 3445.260009765625,
+      "y": 1053.6236572265625,
+      "width": 10.480406761169434,
+      "height": 5.953052520751953
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6531",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 3462.085693359375,
+      "y": 1061.9375,
+      "width": 20.964269638061523,
+      "height": 23.92427635192871
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6532",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 3489.01513671875,
+      "y": 1085.3778076171875,
+      "width": 19.403100967407227,
+      "height": 4.613024711608887
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6533",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 3228.32421875,
+      "y": 1096.4769287109375,
+      "width": 17.899221420288086,
+      "height": 30.947824478149414
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6534",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 3254.184326171875,
+      "y": 1104.0391845703125,
+      "width": 20.603914260864258,
+      "height": 23.494813919067383
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6535",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 3305.9296875,
+      "y": 1104.04150390625,
+      "width": 21.772972106933594,
+      "height": 23.86654281616211
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6536",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 3332.759521484375,
+      "y": 1094.8177490234375,
+      "width": 19.513912200927734,
+      "height": 32.60945510864258
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6537",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 3358.34619140625,
+      "y": 1104.47216796875,
+      "width": 18.758596420288086,
+      "height": 22.954586029052734
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6538",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 3364.41796875,
+      "y": 1095.375732421875,
+      "width": 6.882203102111816,
+      "height": 6.338862419128418
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6539",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 3410.10888671875,
+      "y": 1104.04150390625,
+      "width": 21.772899627685547,
+      "height": 23.866493225097656
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6540",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 3437.880126953125,
+      "y": 1104.0391845703125,
+      "width": 20.60725212097168,
+      "height": 23.494661331176758
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6541",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 3488.2626953125,
+      "y": 1104.04150390625,
+      "width": 21.737451553344727,
+      "height": 23.866527557373047
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6542",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 3382.418212890625,
+      "y": 1103.985595703125,
+      "width": 20.863908767700195,
+      "height": 31.688777923583984
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6543",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 3463.482421875,
+      "y": 1098.8397216796875,
+      "width": 19.78919792175293,
+      "height": 28.65428352355957
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6544",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 3280.1396484375,
+      "y": 1098.8397216796875,
+      "width": 19.782459259033203,
+      "height": 28.654335021972656
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6545",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 3226,
+      "y": 1054.0697021484375,
+      "width": 22.536588668823242,
+      "height": 31.74920654296875
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6520",
+    "name": "Group 4",
+    "type": "GROUP",
+    "absoluteBoundingBox": {
+      "x": 3226,
+      "y": 1052.767578125,
+      "width": 284.0001525878906,
+      "height": 82.90679931640625
+    },
+    "fills": []
+  },
+  {
+    "id": "4415:6546",
+    "name": "Subtract",
+    "type": "BOOLEAN_OPERATION",
+    "absoluteBoundingBox": null,
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6519",
+    "name": "Group 8714",
+    "type": "GROUP",
+    "absoluteBoundingBox": {
+      "x": 3226,
+      "y": 1052.767578125,
+      "width": 284.0001525878906,
+      "height": 82.90679931640625
+    },
+    "fills": []
+  },
+  {
+    "id": "I4415:6547;3:492",
+    "name": "Protégete",
+    "type": "TEXT",
+    "absoluteBoundingBox": {
+      "x": 3254.381591796875,
+      "y": 1165.5029296875,
+      "width": 322,
+      "height": 25
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 1
+        }
+      }
+    ],
+    "style": {
+      "fontFamily": "Geologica",
+      "fontSize": 20.254335403442383
+    }
+  },
+  {
+    "id": "4415:6547",
+    "name": "Frame 1",
+    "type": "INSTANCE",
+    "absoluteBoundingBox": {
+      "x": 3224,
+      "y": 1152,
+      "width": 382.76300048828125,
+      "height": 52.00578308105469
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 0.49803921580314636,
+          "g": 0.22745098173618317,
+          "b": 0.929411768913269,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6550",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 4066.994384765625,
+      "y": 417.89990234375,
+      "width": 89.0400390625,
+      "height": 84.00000762939453
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6551",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 3988.54052734375,
+      "y": 417.89990234375,
+      "width": 72.47998046875,
+      "height": 84.00000762939453
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6552",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 3912.67333984375,
+      "y": 417.89990234375,
+      "width": 68.15997314453125,
+      "height": 84.00000762939453
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6553",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 3825.72021484375,
+      "y": 417.89990234375,
+      "width": 78.239990234375,
+      "height": 84.00000762939453
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6554",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 3733.09716796875,
+      "y": 417.89990234375,
+      "width": 79.92001342773438,
+      "height": 85.08000946044922
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6555",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 3648.551513671875,
+      "y": 417.89990234375,
+      "width": 75.96002197265625,
+      "height": 84.00000762939453
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6556",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 3589.58740234375,
+      "y": 417.89990234375,
+      "width": 64.08000183105469,
+      "height": 84.00000762939453
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6557",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 3496.96435546875,
+      "y": 417.89990234375,
+      "width": 79.92000579833984,
+      "height": 85.08000946044922
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6558",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 3417.139892578125,
+      "y": 416.69989013671875,
+      "width": 72.12001037597656,
+      "height": 86.2800064086914
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6559",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 4076.66748046875,
+      "y": 338.34991455078125,
+      "width": 60.75,
+      "height": 53.55000305175781
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6560",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 4026.56005859375,
+      "y": 338.34991455078125,
+      "width": 43.83001708984375,
+      "height": 53.55000305175781
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6561",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 3941.83349609375,
+      "y": 338.34991455078125,
+      "width": 46.71002197265625,
+      "height": 53.55000305175781
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6562",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 3876.44287109375,
+      "y": 338.34991455078125,
+      "width": 54.179962158203125,
+      "height": 53.55000305175781
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6563",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 3790.004150390625,
+      "y": 337.71990966796875,
+      "width": 47.25,
+      "height": 54.810001373291016
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6564",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 3723.47509765625,
+      "y": 337.71990966796875,
+      "width": 59.670013427734375,
+      "height": 54.810001373291016
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6565",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 3665.9736328125,
+      "y": 338.34991455078125,
+      "width": 51.65998840332031,
+      "height": 53.55000305175781
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6566",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 3600.72998046875,
+      "y": 338.34991455078125,
+      "width": 54.81001281738281,
+      "height": 53.55000305175781
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6567",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 3543.60107421875,
+      "y": 338.34991455078125,
+      "width": 46.71000671386719,
+      "height": 53.55000305175781
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6568",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 3477.038330078125,
+      "y": 338.34991455078125,
+      "width": 54.900001525878906,
+      "height": 54.18000030517578
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6569",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 3416,
+      "y": 327.9999084472656,
+      "width": 54.090003967285156,
+      "height": 64.70999908447266
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6549",
+    "name": "Cuentos de la Cultureza",
+    "type": "GROUP",
+    "absoluteBoundingBox": {
+      "x": 3416,
+      "y": 328,
+      "width": 740.034423828125,
+      "height": 174.98001098632812
+    },
+    "fills": []
+  },
+  {
+    "id": "4415:6570",
+    "name": "cuidar las personas, cuidar la naturaleza",
+    "type": "TEXT",
+    "absoluteBoundingBox": {
+      "x": 3402,
+      "y": 518.89990234375,
+      "width": 778,
+      "height": 43
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 0.27211540937423706,
+          "g": 0.27211540937423706,
+          "b": 0.27211540937423706,
+          "a": 1
+        }
+      }
+    ],
+    "style": {
+      "fontFamily": "REM",
+      "fontSize": 40
+    }
+  },
+  {
+    "id": "4415:6548",
+    "name": "logo",
+    "type": "GROUP",
+    "absoluteBoundingBox": {
+      "x": 3402,
+      "y": 328,
+      "width": 778,
+      "height": 233.89990234375
+    },
+    "fills": []
+  },
+  {
+    "id": "4415:6571",
+    "name": "Line 7",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 3767.9999816518975,
+      "y": 667.9999999999993,
+      "width": 0.00001834810245782137,
+      "height": 79.00000000000068
+    },
+    "fills": []
+  },
+  {
+    "id": "4415:6575",
+    "name": "torn 4",
+    "type": "RECTANGLE",
+    "absoluteBoundingBox": {
+      "x": 3797.6416015625,
+      "y": 1488.71826171875,
+      "width": 898.3582153320312,
+      "height": 146.50148010253906
+    },
+    "fills": [
+      {
+        "type": "IMAGE",
+        "imageRef": "dae5125818cbc99bc620e1708599f69301a03359"
+      }
+    ]
+  },
+  {
+    "id": "4415:6576",
+    "name": "torn 5",
+    "type": "RECTANGLE",
+    "absoluteBoundingBox": {
+      "x": 3769.999823975948,
+      "y": 1244.7786865234375,
+      "width": 900.9707897914304,
+      "height": 338.48087151139407
+    },
+    "fills": [
+      {
+        "type": "IMAGE",
+        "imageRef": "dae5125818cbc99bc620e1708599f69301a03359"
+      }
+    ]
+  },
+  {
+    "id": "4415:6577",
+    "name": "Vector 9",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 3818.02783203125,
+      "y": 1333.578369140625,
+      "width": 719.3776245117188,
+      "height": 280.2186584472656
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 0.8509804010391235,
+          "g": 0.8509804010391235,
+          "b": 0.8509804010391235,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6574",
+    "name": "Group 17",
+    "type": "GROUP",
+    "absoluteBoundingBox": {
+      "x": 3769.999755859375,
+      "y": 1244.7786865234375,
+      "width": 925.9998779296875,
+      "height": 390.4410400390625
+    },
+    "fills": []
+  },
+  {
+    "id": "4415:6578",
+    "name": "Rectangle 18",
+    "type": "RECTANGLE",
+    "absoluteBoundingBox": {
+      "x": 3750.651123046875,
+      "y": 1209.53564453125,
+      "width": 772.5880737304688,
+      "height": 431.9029846191406
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 0.7098039388656616,
+          "g": 0.9058823585510254,
+          "b": 0.13333334028720856,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6573",
+    "name": "Mask group",
+    "type": "GROUP",
+    "absoluteBoundingBox": {
+      "x": 3769.999755859375,
+      "y": 1244.7786865234375,
+      "width": 925.9998779296875,
+      "height": 390.4410400390625
+    },
+    "fills": []
+  },
+  {
+    "id": "4415:6580",
+    "name": "torn paper 3",
+    "type": "RECTANGLE",
+    "absoluteBoundingBox": {
+      "x": 3857.0712890625,
+      "y": 1321.4849840828829,
+      "width": 829.7637083261616,
+      "height": 299.6536706758325
+    },
+    "fills": [
+      {
+        "type": "IMAGE",
+        "imageRef": "cb35825bff3ba101974741171bed03d0bec1fd55"
+      }
+    ]
+  },
+  {
+    "id": "4415:6581",
+    "name": "Rectangle 17",
+    "type": "RECTANGLE",
+    "absoluteBoundingBox": {
+      "x": 3875.03857421875,
+      "y": 1368.4765625,
+      "width": 641.28955078125,
+      "height": 275.72686767578125
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 0.9450980424880981,
+          "g": 0.9450980424880981,
+          "b": 0.9450980424880981,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6579",
+    "name": "Mask group",
+    "type": "GROUP",
+    "absoluteBoundingBox": {
+      "x": 3857.0712890625,
+      "y": 1321.4849853515625,
+      "width": 829.7637329101562,
+      "height": 299.6536560058594
+    },
+    "fills": []
+  },
+  {
+    "id": "4415:6583",
+    "name": "torn paper 3",
+    "type": "RECTANGLE",
+    "absoluteBoundingBox": {
+      "x": 3857.0712890625,
+      "y": 1313.1926256844454,
+      "width": 829.7637083261616,
+      "height": 299.6536706758325
+    },
+    "fills": [
+      {
+        "type": "IMAGE",
+        "imageRef": "cb35825bff3ba101974741171bed03d0bec1fd55"
+      }
+    ]
+  },
+  {
+    "id": "4415:6584",
+    "name": "image 11",
+    "type": "RECTANGLE",
+    "absoluteBoundingBox": {
+      "x": 3792.7138671875,
+      "y": 1292.3306884765625,
+      "width": 957.7880249023438,
+      "height": 296.45819091796875
+    },
+    "fills": [
+      {
+        "type": "IMAGE",
+        "imageRef": "db8b4a521e653c692357b282dcd845ac9b8f4b83"
+      }
+    ]
+  },
+  {
+    "id": "4415:6582",
+    "name": "Mask group",
+    "type": "GROUP",
+    "absoluteBoundingBox": {
+      "x": 3857.0712890625,
+      "y": 1313.192626953125,
+      "width": 829.7637329101562,
+      "height": 299.6536560058594
+    },
+    "fills": []
+  },
+  {
+    "id": "4415:6585",
+    "name": "small-green-plant-growing-from-a-mound-of-dark-soil-against-a-transparent-background-small-plant-growing-out-a-pile-dirt-background-free-png 1",
+    "type": "RECTANGLE",
+    "absoluteBoundingBox": {
+      "x": 4132.79833984375,
+      "y": 1166,
+      "width": 406.33428955078125,
+      "height": 335.8477478027344
+    },
+    "fills": [
+      {
+        "type": "IMAGE",
+        "imageRef": "d081a7d1175adedded584d254280575c7e5885e5"
+      }
+    ]
+  },
+  {
+    "id": "4415:6572",
+    "name": "foto",
+    "type": "GROUP",
+    "absoluteBoundingBox": {
+      "x": 3769.999755859375,
+      "y": 1166,
+      "width": 925.9998779296875,
+      "height": 469.2197265625
+    },
+    "fills": []
+  },
+  {
+    "id": "I4415:6586;12:777",
+    "name": "Rectangle 1",
+    "type": "RECTANGLE",
+    "absoluteBoundingBox": {
+      "x": 3152.333251953125,
+      "y": 1795,
+      "width": 21.33333396911621,
+      "height": 16
+    },
+    "fills": []
+  },
+  {
+    "id": "I4415:6586;12:778",
+    "name": "Vector 3",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 3152.333251953125,
+      "y": 1799,
+      "width": 21.33333396911621,
+      "height": 5.333333492279053
+    },
+    "fills": []
+  },
+  {
+    "id": "4415:6586",
+    "name": "Message",
+    "type": "INSTANCE",
+    "absoluteBoundingBox": {
+      "x": 3147,
+      "y": 1787,
+      "width": 32,
+      "height": 32
+    },
+    "fills": []
+  },
+  {
+    "id": "4415:6437",
+    "name": "Sobre FCI",
+    "type": "FRAME",
+    "absoluteBoundingBox": {
+      "x": 3062,
+      "y": 0,
+      "width": 1440,
+      "height": 1916
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6590",
+    "name": "torn paper 1",
+    "type": "RECTANGLE",
+    "absoluteBoundingBox": {
+      "x": 1836.0924282058368,
+      "y": 2005.2604526600408,
+      "width": 1659.9939975754132,
+      "height": 659.3332470118548
+    },
+    "fills": [
+      {
+        "type": "IMAGE",
+        "imageRef": "cb35825bff3ba101974741171bed03d0bec1fd55"
+      }
+    ]
+  },
+  {
+    "id": "4415:6591",
+    "name": "Rectangle 13",
+    "type": "RECTANGLE",
+    "absoluteBoundingBox": {
+      "x": 1850.8100781734975,
+      "y": 1954.2178955078125,
+      "width": 1199.2243326806347,
+      "height": 599.9215373938641
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 0.7098039388656616,
+          "g": 0.9058823585510254,
+          "b": 0.13333334028720856,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6589",
+    "name": "Mask group",
+    "type": "GROUP",
+    "absoluteBoundingBox": {
+      "x": 1836.092600301694,
+      "y": 2005.2603759765625,
+      "width": 1659.9939975754132,
+      "height": 659.3332470118548
+    },
+    "fills": []
+  },
+  {
+    "id": "4415:6594",
+    "name": "white-ripped-paper-png 1",
+    "type": "RECTANGLE",
+    "absoluteBoundingBox": {
+      "x": 1369.9018001119257,
+      "y": 1980.6027649324915,
+      "width": 1635.1040592630743,
+      "height": 695.8688965951424
+    },
+    "fills": [
+      {
+        "type": "IMAGE",
+        "imageRef": "93b7689fe14ca7da96c2ae53b7cb394fa60ba863"
+      }
+    ]
+  },
+  {
+    "id": "4415:6595",
+    "name": "Vector 6",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 1467.7221228234916,
+      "y": 2273.080492761399,
+      "width": 1127.1619103796334,
+      "height": 292.97769596154103
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 0.8509804010391235,
+          "g": 0.8509804010391235,
+          "b": 0.8509804010391235,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6593",
+    "name": "Group 12",
+    "type": "GROUP",
+    "absoluteBoundingBox": {
+      "x": 1364.7697410052128,
+      "y": 1978.9243054086792,
+      "width": 1645.3681984479122,
+      "height": 699.225989840289
+    },
+    "fills": []
+  },
+  {
+    "id": "4415:6596",
+    "name": "image 14",
+    "type": "RECTANGLE",
+    "absoluteBoundingBox": {
+      "x": 1476.1644287109375,
+      "y": 1862.168212890625,
+      "width": 1508.1412353515625,
+      "height": 1005.4274291992188
+    },
+    "fills": [
+      {
+        "type": "IMAGE",
+        "imageRef": "cd3661a5cb9ffcee587f3376c6941760d9164cf8"
+      }
+    ]
+  },
+  {
+    "id": "4415:6592",
+    "name": "Mask group",
+    "type": "GROUP",
+    "absoluteBoundingBox": {
+      "x": 1364.769775390625,
+      "y": 1978.92431640625,
+      "width": 1645.3681640625,
+      "height": 699.2259521484375
+    },
+    "fills": []
+  },
+  {
+    "id": "4415:6598",
+    "name": "araucaria 2",
+    "type": "RECTANGLE",
+    "absoluteBoundingBox": {
+      "x": 1196.83251953125,
+      "y": 1570.049072265625,
+      "width": 855.65478515625,
+      "height": 1083.56982421875
+    },
+    "fills": [
+      {
+        "type": "IMAGE",
+        "imageRef": "5cda93bca82042ea8aa1fc7e09011825fc357dc9"
+      }
+    ]
+  },
+  {
+    "id": "4415:6599",
+    "name": "Rectangle 14",
+    "type": "RECTANGLE",
+    "absoluteBoundingBox": {
+      "x": 1504.1903686523438,
+      "y": 1524.466552734375,
+      "width": 621.2288208007812,
+      "height": 1002.8231811523438
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 0.9450980424880981,
+          "g": 0.9450980424880981,
+          "b": 0.9450980424880981,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6597",
+    "name": "Mask group",
+    "type": "GROUP",
+    "absoluteBoundingBox": {
+      "x": 1196.83251953125,
+      "y": 1570.0489501953125,
+      "width": 855.65478515625,
+      "height": 1083.56982421875
+    },
+    "fills": []
+  },
+  {
+    "id": "4415:6600",
+    "name": "araucaria 1",
+    "type": "RECTANGLE",
+    "absoluteBoundingBox": {
+      "x": 1176.0008544921875,
+      "y": 1559,
+      "width": 855.1356201171875,
+      "height": 1084.2283935546875
+    },
+    "fills": [
+      {
+        "type": "IMAGE",
+        "imageRef": "5cda93bca82042ea8aa1fc7e09011825fc357dc9"
+      }
+    ]
+  },
+  {
+    "id": "4415:6588",
+    "name": "foto",
+    "type": "GROUP",
+    "absoluteBoundingBox": {
+      "x": 1176.000732421875,
+      "y": 1559,
+      "width": 2320.085693359375,
+      "height": 1119.1502685546875
+    },
+    "fills": []
+  },
+  {
+    "id": "4415:6601",
+    "name": "68095F25-3E50-4A38-BE88-712F135A019E 1",
+    "type": "RECTANGLE",
+    "absoluteBoundingBox": {
+      "x": 1480,
+      "y": 0,
+      "width": 1440,
+      "height": 960
+    },
+    "fills": [
+      {
+        "type": "IMAGE",
+        "imageRef": "fa91ae43cdeb44f39f471198c14f9cfd61132ff9"
+      }
+    ]
+  },
+  {
+    "id": "4415:6602",
+    "name": "Rectangle 4155",
+    "type": "RECTANGLE",
+    "absoluteBoundingBox": {
+      "x": 1480,
+      "y": 2634,
+      "width": 1440,
+      "height": 44
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 0.27211540937423706,
+          "g": 0.27211540937423706,
+          "b": 0.27211540937423706,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6603",
+    "name": "Rectangle 4156",
+    "type": "RECTANGLE",
+    "absoluteBoundingBox": {
+      "x": 1480,
+      "y": 2472,
+      "width": 1440,
+      "height": 162
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 0.27211540937423706,
+          "g": 0.27211540937423706,
+          "b": 0.27211540937423706,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6604",
+    "name": "Cultureza: Cuidar las personas, cuidar la naturaleza - de Ciudadanía Inteligente | 2026 Todos los derechos reservados",
+    "type": "TEXT",
+    "absoluteBoundingBox": {
+      "x": 1480,
+      "y": 2648,
+      "width": 1440,
+      "height": 30
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 1
+        }
+      }
+    ],
+    "style": {
+      "fontFamily": "Geologica",
+      "fontSize": 14
+    }
+  },
+  {
+    "id": "4415:6605",
+    "name": "Un proyecto de",
+    "type": "TEXT",
+    "absoluteBoundingBox": {
+      "x": 2517,
+      "y": 2551,
+      "width": 134,
+      "height": 17
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 1
+        }
+      }
+    ],
+    "style": {
+      "fontFamily": "Geologica",
+      "fontSize": 16
+    }
+  },
+  {
+    "id": "4415:6606",
+    "name": "Contáctanos:",
+    "type": "TEXT",
+    "absoluteBoundingBox": {
+      "x": 1572,
+      "y": 2530,
+      "width": 134,
+      "height": 17
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 1
+        }
+      }
+    ],
+    "style": {
+      "fontFamily": "Geologica",
+      "fontSize": 16
+    }
+  },
+  {
+    "id": "I4415:6607;3:557",
+    "name": "Ellipse 47",
+    "type": "ELLIPSE",
+    "absoluteBoundingBox": {
+      "x": 2811,
+      "y": 13,
+      "width": 18,
+      "height": 18
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 0.7987847328186035,
+          "g": 0.8253224492073059,
+          "b": 0.8916666507720947,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "I4415:6607;3:558",
+    "name": "Vector 8",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 2816,
+      "y": 17.99999959947877,
+      "width": 8.000000400521458,
+      "height": 8.00000040052123
+    },
+    "fills": []
+  },
+  {
+    "id": "I4415:6607;3:559",
+    "name": "Vector 9",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 2815.9999995994785,
+      "y": 17.99999959947877,
+      "width": 8.000000400521458,
+      "height": 8.00000040052123
+    },
+    "fills": []
+  },
+  {
+    "id": "I4415:6607;3:556",
+    "name": "Subtract",
+    "type": "BOOLEAN_OPERATION",
+    "absoluteBoundingBox": {
+      "x": 2811,
+      "y": 13,
+      "width": 18,
+      "height": 18
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6607",
+    "name": "Close_round_fill",
+    "type": "INSTANCE",
+    "absoluteBoundingBox": {
+      "x": 2808,
+      "y": 10,
+      "width": 24,
+      "height": 24
+    },
+    "fills": []
+  },
+  {
+    "id": "4415:6608",
+    "name": "cultureza@ciudadaniai.org",
+    "type": "TEXT",
+    "absoluteBoundingBox": {
+      "x": 1606,
+      "y": 2554,
+      "width": 323,
+      "height": 25
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 1
+        }
+      }
+    ],
+    "style": {
+      "fontFamily": "Geologica",
+      "fontSize": 16
+    }
+  },
+  {
+    "id": "I4415:6609;12:777",
+    "name": "Rectangle 1",
+    "type": "RECTANGLE",
+    "absoluteBoundingBox": {
+      "x": 1573.3333740234375,
+      "y": 2558,
+      "width": 21.33333396911621,
+      "height": 16
+    },
+    "fills": []
+  },
+  {
+    "id": "I4415:6609;12:778",
+    "name": "Vector 3",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 1573.3333740234375,
+      "y": 2562,
+      "width": 21.33333396911621,
+      "height": 5.333333492279053
+    },
+    "fills": []
+  },
+  {
+    "id": "4415:6609",
+    "name": "Message",
+    "type": "INSTANCE",
+    "absoluteBoundingBox": {
+      "x": 1568,
+      "y": 2550,
+      "width": 32,
+      "height": 32
+    },
+    "fills": []
+  },
+  {
+    "id": "4415:6612",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 2695.56689453125,
+      "y": 2538.393798828125,
+      "width": 4.23145866394043,
+      "height": 3.83223295211792
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6613",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 2691.796875,
+      "y": 2543.939208984375,
+      "width": 11.539191246032715,
+      "height": 14.120331764221191
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6614",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 2707.029541015625,
+      "y": 2543.937744140625,
+      "width": 12.44671630859375,
+      "height": 14.426505088806152
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6615",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 2722.676513671875,
+      "y": 2538,
+      "width": 12.666717529296875,
+      "height": 20.324310302734375
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6616",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 2738.753173828125,
+      "y": 2543.6416015625,
+      "width": 12.922834396362305,
+      "height": 14.716805458068848
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6617",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 2754.847900390625,
+      "y": 2538,
+      "width": 12.672919273376465,
+      "height": 20.324373245239258
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6618",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 2770.9619140625,
+      "y": 2543.6416015625,
+      "width": 12.887712478637695,
+      "height": 14.716760635375977
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6619",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 2787.4130859375,
+      "y": 2543.70703125,
+      "width": 12.645417213439941,
+      "height": 14.386602401733398
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6620",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 2804.282470703125,
+      "y": 2543.939208984375,
+      "width": 11.968720436096191,
+      "height": 14.120331764221191
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6621",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 2808.8759765625,
+      "y": 2538.527099609375,
+      "width": 6.446937561035156,
+      "height": 3.6619722843170166
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6622",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 2819.2265625,
+      "y": 2543.6416015625,
+      "width": 12.896000862121582,
+      "height": 14.716824531555176
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6623",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 2835.7919921875,
+      "y": 2558.0595703125,
+      "width": 11.935660362243652,
+      "height": 2.8376646041870117
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6624",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 2675.428955078125,
+      "y": 2564.8876953125,
+      "width": 11.01055908203125,
+      "height": 19.037303924560547
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6625",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 2691.337646484375,
+      "y": 2569.5390625,
+      "width": 12.674330711364746,
+      "height": 14.452644348144531
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6626",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 2723.167724609375,
+      "y": 2569.54150390625,
+      "width": 13.39346694946289,
+      "height": 14.681310653686523
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6627",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 2739.671630859375,
+      "y": 2563.86669921875,
+      "width": 12.003824234008789,
+      "height": 20.0594425201416
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6628",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 2755.4111328125,
+      "y": 2569.805908203125,
+      "width": 11.53919792175293,
+      "height": 14.12032699584961
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6629",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 2759.146484375,
+      "y": 2564.21044921875,
+      "width": 4.233531475067139,
+      "height": 3.8992998600006104
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6630",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 2787.252685546875,
+      "y": 2569.54150390625,
+      "width": 13.39342212677002,
+      "height": 14.681280136108398
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6631",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 2804.33642578125,
+      "y": 2569.5390625,
+      "width": 12.676383018493652,
+      "height": 14.45255184173584
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6632",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 2835.328857421875,
+      "y": 2569.54150390625,
+      "width": 13.37161636352539,
+      "height": 14.681300163269043
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6633",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 2770.218994140625,
+      "y": 2569.5068359375,
+      "width": 12.834264755249023,
+      "height": 19.493093490600586
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6634",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 2820.0859375,
+      "y": 2566.341064453125,
+      "width": 12.173164367675781,
+      "height": 17.626449584960938
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6635",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 2707.303955078125,
+      "y": 2566.341064453125,
+      "width": 12.169017791748047,
+      "height": 17.626482009887695
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6636",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 2674,
+      "y": 2538.8017578125,
+      "width": 13.863200187683105,
+      "height": 19.53026580810547
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6611",
+    "name": "Group 4",
+    "type": "GROUP",
+    "absoluteBoundingBox": {
+      "x": 2674,
+      "y": 2538,
+      "width": 174.70053100585938,
+      "height": 51
+    },
+    "fills": []
+  },
+  {
+    "id": "4415:6637",
+    "name": "Subtract",
+    "type": "BOOLEAN_OPERATION",
+    "absoluteBoundingBox": null,
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6610",
+    "name": "Group 320",
+    "type": "GROUP",
+    "absoluteBoundingBox": {
+      "x": 2674,
+      "y": 2538,
+      "width": 174.70053100585938,
+      "height": 51
+    },
+    "fills": []
+  },
+  {
+    "id": "4415:6638",
+    "name": "Sobre Ciudadanía Inteligente",
+    "type": "TEXT",
+    "absoluteBoundingBox": {
+      "x": 2388,
+      "y": 91,
+      "width": 273,
+      "height": 28
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 1
+        }
+      }
+    ],
+    "style": {
+      "fontFamily": "REM",
+      "fontSize": 20
+    }
+  },
+  {
+    "id": "I4415:6639;326:276",
+    "name": "Label",
+    "type": "TEXT",
+    "absoluteBoundingBox": {
+      "x": 2736,
+      "y": 91,
+      "width": 91,
+      "height": 28
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 1
+        }
+      }
+    ],
+    "style": {
+      "fontFamily": "REM",
+      "fontSize": 20
+    }
+  },
+  {
+    "id": "4415:6639",
+    "name": "Button",
+    "type": "INSTANCE",
+    "absoluteBoundingBox": {
+      "x": 2701,
+      "y": 71,
+      "width": 161,
+      "height": 68
+    },
+    "fills": []
+  },
+  {
+    "id": "4415:6643",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 1604.3931884765625,
+      "y": 67.48193359375,
+      "width": 5.178400039672852,
+      "height": 4.689833164215088
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6644",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 1599.779541015625,
+      "y": 74.26822662353516,
+      "width": 14.121500968933105,
+      "height": 17.280263900756836
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6645",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 1618.421142578125,
+      "y": 74.26665496826172,
+      "width": 15.23211669921875,
+      "height": 17.65495491027832
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6646",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 1637.569580078125,
+      "y": 67,
+      "width": 15.501351356506348,
+      "height": 24.87260627746582
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6647",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 1657.244140625,
+      "y": 73.9040298461914,
+      "width": 15.814784049987793,
+      "height": 18.01021957397461
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6648",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 1676.9405517578125,
+      "y": 67,
+      "width": 15.508941650390625,
+      "height": 24.872684478759766
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6649",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 1696.6605224609375,
+      "y": 73.9040298461914,
+      "width": 15.771801948547363,
+      "height": 18.01016616821289
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6650",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 1716.7933349609375,
+      "y": 73.98409271240234,
+      "width": 15.475284576416016,
+      "height": 17.606122970581055
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6651",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 1737.4378662109375,
+      "y": 74.26822662353516,
+      "width": 14.647151947021484,
+      "height": 17.280263900756836
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6652",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 1743.0594482421875,
+      "y": 67.64519500732422,
+      "width": 7.889671802520752,
+      "height": 4.481470108032227
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6653",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 1755.7261962890625,
+      "y": 73.9040298461914,
+      "width": 15.78194522857666,
+      "height": 18.010244369506836
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6654",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 1775.998779296875,
+      "y": 91.54871368408203,
+      "width": 14.606694221496582,
+      "height": 3.4726943969726562
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6655",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 1579.748779296875,
+      "y": 99.90482330322266,
+      "width": 13.474568367004395,
+      "height": 23.297584533691406
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6656",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 1599.217529296875,
+      "y": 105.59695434570312,
+      "width": 15.51066780090332,
+      "height": 17.68694305419922
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6657",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 1638.1708984375,
+      "y": 105.60009765625,
+      "width": 16.390737533569336,
+      "height": 17.966781616210938
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6658",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 1658.3680419921875,
+      "y": 98.6552505493164,
+      "width": 14.690112113952637,
+      "height": 24.548465728759766
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6659",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 1677.629638671875,
+      "y": 105.92347717285156,
+      "width": 14.121508598327637,
+      "height": 17.280258178710938
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6660",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 1682.200927734375,
+      "y": 99.07595825195312,
+      "width": 5.180936336517334,
+      "height": 4.771908283233643
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6661",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 1716.5970458984375,
+      "y": 105.60009765625,
+      "width": 16.390682220458984,
+      "height": 17.966745376586914
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6662",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 1737.50390625,
+      "y": 105.59695434570312,
+      "width": 15.51318073272705,
+      "height": 17.686830520629883
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6663",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 1775.43212890625,
+      "y": 105.60009765625,
+      "width": 16.363996505737305,
+      "height": 17.96677017211914
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6664",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 1695.7515869140625,
+      "y": 105.55770874023438,
+      "width": 15.706393241882324,
+      "height": 23.85537338256836
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6665",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 1756.7779541015625,
+      "y": 101.68341827392578,
+      "width": 14.897348403930664,
+      "height": 21.571002960205078
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6666",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 1618.757080078125,
+      "y": 101.68341827392578,
+      "width": 14.892273902893066,
+      "height": 21.571043014526367
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6667",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 1578,
+      "y": 67.98113250732422,
+      "width": 16.965591430664062,
+      "height": 23.900867462158203
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6642",
+    "name": "Group 4",
+    "type": "GROUP",
+    "absoluteBoundingBox": {
+      "x": 1578,
+      "y": 67,
+      "width": 213.79612731933594,
+      "height": 62.413082122802734
+    },
+    "fills": []
+  },
+  {
+    "id": "4415:6668",
+    "name": "Subtract",
+    "type": "BOOLEAN_OPERATION",
+    "absoluteBoundingBox": null,
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6641",
+    "name": "Group 320",
+    "type": "GROUP",
+    "absoluteBoundingBox": {
+      "x": 1578,
+      "y": 67,
+      "width": 213.79612731933594,
+      "height": 62.413082122802734
+    },
+    "fills": []
+  },
+  {
+    "id": "4415:6640",
+    "name": "Frame 10",
+    "type": "FRAME",
+    "absoluteBoundingBox": {
+      "x": 1578,
+      "y": 57,
+      "width": 213.79612731933594,
+      "height": 82.4130859375
+    },
+    "fills": []
+  },
+  {
+    "id": "4415:6669",
+    "name": "hoja",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 2150,
+      "y": 2525,
+      "width": 108,
+      "height": 68
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6670",
+    "name": "Más información",
+    "type": "TEXT",
+    "absoluteBoundingBox": {
+      "x": 2195,
+      "y": 91,
+      "width": 156,
+      "height": 28
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 1
+        }
+      }
+    ],
+    "style": {
+      "fontFamily": "REM",
+      "fontSize": 20
+    }
+  },
+  {
+    "id": "4415:6674",
+    "name": "torn paper 1",
+    "type": "RECTANGLE",
+    "absoluteBoundingBox": {
+      "x": 1330.5694580078125,
+      "y": 423.59408052465005,
+      "width": 1617.0325717661162,
+      "height": 459.42468618046405
+    },
+    "fills": [
+      {
+        "type": "IMAGE",
+        "imageRef": "cb35825bff3ba101974741171bed03d0bec1fd55"
+      }
+    ]
+  },
+  {
+    "id": "4415:6675",
+    "name": "Rectangle 21",
+    "type": "RECTANGLE",
+    "absoluteBoundingBox": {
+      "x": 1505.402587890625,
+      "y": 561.6754150390625,
+      "width": 1393.8460693359375,
+      "height": 489.1366882324219
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 0.7098039388656616,
+          "g": 0.9058823585510254,
+          "b": 0.13333334028720856,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6673",
+    "name": "Mask group",
+    "type": "GROUP",
+    "absoluteBoundingBox": {
+      "x": 1330.5694580078125,
+      "y": 423.59405517578125,
+      "width": 1617.0325927734375,
+      "height": 459.4246520996094
+    },
+    "fills": []
+  },
+  {
+    "id": "4415:6677",
+    "name": "torn paper 1",
+    "type": "RECTANGLE",
+    "absoluteBoundingBox": {
+      "x": 1375.0513916015625,
+      "y": 144.81258638402505,
+      "width": 1617.0325717661162,
+      "height": 459.42468618046405
+    },
+    "fills": [
+      {
+        "type": "IMAGE",
+        "imageRef": "cb35825bff3ba101974741171bed03d0bec1fd55"
+      }
+    ]
+  },
+  {
+    "id": "4415:6678",
+    "name": "Rectangle 21",
+    "type": "RECTANGLE",
+    "absoluteBoundingBox": {
+      "x": 1486.04296875,
+      "y": 90.60806274414062,
+      "width": 1524.1964111328125,
+      "height": 489.1366882324219
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 0.7098039388656616,
+          "g": 0.9058823585510254,
+          "b": 0.13333334028720856,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6676",
+    "name": "Mask group",
+    "type": "GROUP",
+    "absoluteBoundingBox": {
+      "x": 1375.0513916015625,
+      "y": 144.8125762939453,
+      "width": 1617.0325927734375,
+      "height": 459.4246520996094
+    },
+    "fills": []
+  },
+  {
+    "id": "4415:6672",
+    "name": "Group 18",
+    "type": "GROUP",
+    "absoluteBoundingBox": {
+      "x": 1330.5694580078125,
+      "y": 144.8125762939453,
+      "width": 1661.5145263671875,
+      "height": 738.2061767578125
+    },
+    "fills": []
+  },
+  {
+    "id": "4415:6680",
+    "name": "white-ripped-paper-png 1",
+    "type": "RECTANGLE",
+    "absoluteBoundingBox": {
+      "x": 1305.359375,
+      "y": 144.81201171875,
+      "width": 1792.640869140625,
+      "height": 636.264892578125
+    },
+    "fills": [
+      {
+        "type": "IMAGE",
+        "imageRef": "93b7689fe14ca7da96c2ae53b7cb394fa60ba863"
+      }
+    ]
+  },
+  {
+    "id": "4415:6681",
+    "name": "Rectangle 20",
+    "type": "RECTANGLE",
+    "absoluteBoundingBox": {
+      "x": 1505.40234375,
+      "y": 188.6921844482422,
+      "width": 1405.4615478515625,
+      "height": 748.5469360351562
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 0.9450980424880981,
+          "g": 0.9450980424880981,
+          "b": 0.9450980424880981,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6679",
+    "name": "Mask group",
+    "type": "GROUP",
+    "absoluteBoundingBox": {
+      "x": 1305.359375,
+      "y": 144.81201171875,
+      "width": 1792.640869140625,
+      "height": 636.264892578125
+    },
+    "fills": []
+  },
+  {
+    "id": "4415:6683",
+    "name": "white-ripped-paper-png 1",
+    "type": "RECTANGLE",
+    "absoluteBoundingBox": {
+      "x": 1287,
+      "y": 129.00042724609375,
+      "width": 1792.640869140625,
+      "height": 636.264892578125
+    },
+    "fills": [
+      {
+        "type": "IMAGE",
+        "imageRef": "93b7689fe14ca7da96c2ae53b7cb394fa60ba863"
+      }
+    ]
+  },
+  {
+    "id": "4415:6684",
+    "name": "image 8",
+    "type": "RECTANGLE",
+    "absoluteBoundingBox": {
+      "x": 1474.13671875,
+      "y": 41.23899841308594,
+      "width": 1462.3818359375,
+      "height": 1031.093505859375
+    },
+    "fills": [
+      {
+        "type": "IMAGE",
+        "imageRef": "1f996909456b80f36cda914cc0720560371c2a81"
+      }
+    ]
+  },
+  {
+    "id": "4415:6682",
+    "name": "Mask group",
+    "type": "GROUP",
+    "absoluteBoundingBox": {
+      "x": 1287,
+      "y": 129.00042724609375,
+      "width": 1792.640869140625,
+      "height": 636.264892578125
+    },
+    "fills": []
+  },
+  {
+    "id": "4415:6671",
+    "name": "foto",
+    "type": "GROUP",
+    "absoluteBoundingBox": {
+      "x": 1287,
+      "y": 129.00042724609375,
+      "width": 1811.000244140625,
+      "height": 754.018310546875
+    },
+    "fills": []
+  },
+  {
+    "id": "4415:6687",
+    "name": "destacador 2",
+    "type": "RECTANGLE",
+    "absoluteBoundingBox": {
+      "x": 2100.999963760376,
+      "y": 1559,
+      "width": 522.0694932288607,
+      "height": 109.94666709395824
+    },
+    "fills": [
+      {
+        "type": "IMAGE",
+        "imageRef": "be1f7fa8fbb5ea5943edef323e779d40301b96e4"
+      }
+    ]
+  },
+  {
+    "id": "4415:6688",
+    "name": "Rectangle 29",
+    "type": "RECTANGLE",
+    "absoluteBoundingBox": {
+      "x": 1743.0038762644235,
+      "y": 1360.7489013671875,
+      "width": 1083.2296624930623,
+      "height": 422.77166504380693
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 0.49803921580314636,
+          "g": 0.22745098173618317,
+          "b": 0.929411768913269,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6686",
+    "name": "Mask group",
+    "type": "GROUP",
+    "absoluteBoundingBox": {
+      "x": 2100.999963760376,
+      "y": 1559,
+      "width": 522.0694932288607,
+      "height": 109.94666709395824
+    },
+    "fills": []
+  },
+  {
+    "id": "4415:6689",
+    "name": "¿Qué debo enviar?",
+    "type": "TEXT",
+    "absoluteBoundingBox": {
+      "x": 2142.77197265625,
+      "y": 1582.21337890625,
+      "width": 428,
+      "height": 58
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 0.9450980424880981,
+          "g": 0.9450980424880981,
+          "b": 0.9450980424880981,
+          "a": 1
+        }
+      }
+    ],
+    "style": {
+      "fontFamily": "Space Mono",
+      "fontSize": 40
+    }
+  },
+  {
+    "id": "4415:6685",
+    "name": "poiple",
+    "type": "GROUP",
+    "absoluteBoundingBox": {
+      "x": 2101,
+      "y": 1559,
+      "width": 522.0695190429688,
+      "height": 109.94667053222656
+    },
+    "fills": []
+  },
+  {
+    "id": "4415:6691",
+    "name": "Conoce los requisitos, reconocimientos y el detalle de las bases aquí",
+    "type": "TEXT",
+    "absoluteBoundingBox": {
+      "x": 2093,
+      "y": 1934,
+      "width": 827,
+      "height": 155.90081787109375
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 0.27211540937423706,
+          "g": 0.27211540937423706,
+          "b": 0.27211540937423706,
+          "a": 1
+        }
+      }
+    ],
+    "style": {
+      "fontFamily": "REM",
+      "fontSize": 38
+    }
+  },
+  {
+    "id": "4415:6692",
+    "name": "Un cuento breve de hasta 1000 palabras, en castellano. Puede nacer de una experiencia real o imaginada",
+    "type": "TEXT",
+    "absoluteBoundingBox": {
+      "x": 2182.461669921875,
+      "y": 1706,
+      "width": 600.2251586914062,
+      "height": 223.02476501464844
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 0.27211540937423706,
+          "g": 0.27211540937423706,
+          "b": 0.27211540937423706,
+          "a": 1
+        }
+      }
+    ],
+    "style": {
+      "fontFamily": "REM",
+      "fontSize": 38
+    }
+  },
+  {
+    "id": "4415:6690",
+    "name": "Group 36",
+    "type": "GROUP",
+    "absoluteBoundingBox": {
+      "x": 2093,
+      "y": 1706,
+      "width": 827,
+      "height": 383.90081787109375
+    },
+    "fills": []
+  },
+  {
+    "id": "4415:6695",
+    "name": "destacador 3",
+    "type": "RECTANGLE",
+    "absoluteBoundingBox": {
+      "x": 1653.6210763118693,
+      "y": 882.9379272460938,
+      "width": 747.2479396326812,
+      "height": 84.17482631190899
+    },
+    "fills": [
+      {
+        "type": "IMAGE",
+        "imageRef": "be1f7fa8fbb5ea5943edef323e779d40301b96e4"
+      }
+    ]
+  },
+  {
+    "id": "4415:6696",
+    "name": "Rectangle 28",
+    "type": "RECTANGLE",
+    "absoluteBoundingBox": {
+      "x": 1555.248250382032,
+      "y": 886.8201293945312,
+      "width": 862.3417965579429,
+      "height": 107.19520320341451
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 0.49803921580314636,
+          "g": 0.22745098173618317,
+          "b": 0.929411768913269,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6694",
+    "name": "Mask group",
+    "type": "GROUP",
+    "absoluteBoundingBox": {
+      "x": 1653.6210763118693,
+      "y": 882.9379272460938,
+      "width": 747.2479396326812,
+      "height": 84.17482631190899
+    },
+    "fills": []
+  },
+  {
+    "id": "4415:6697",
+    "name": "¿Quiénes pueden participar?",
+    "type": "TEXT",
+    "absoluteBoundingBox": {
+      "x": 1714.5994873046875,
+      "y": 887.2001953125,
+      "width": 663.0174560546875,
+      "height": 59
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 0.9450980424880981,
+          "g": 0.9450980424880981,
+          "b": 0.9450980424880981,
+          "a": 1
+        }
+      }
+    ],
+    "style": {
+      "fontFamily": "Space Mono",
+      "fontSize": 40
+    }
+  },
+  {
+    "id": "4415:6693",
+    "name": "puprple",
+    "type": "GROUP",
+    "absoluteBoundingBox": {
+      "x": 1653.62109375,
+      "y": 882.9379272460938,
+      "width": 747.2479248046875,
+      "height": 84.1748275756836
+    },
+    "fills": []
+  },
+  {
+    "id": "4415:6700",
+    "name": "‣ Niñeces (6 a 12 años)",
+    "type": "TEXT",
+    "absoluteBoundingBox": {
+      "x": 1661,
+      "y": 1013,
+      "width": 599.44970703125,
+      "height": 33.954166412353516
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 0.27211540937423706,
+          "g": 0.27211540937423706,
+          "b": 0.27211540937423706,
+          "a": 1
+        }
+      }
+    ],
+    "style": {
+      "fontFamily": "REM",
+      "fontSize": 38
+    }
+  },
+  {
+    "id": "4415:6701",
+    "name": "‣ Juventudes (13 a 24 años)",
+    "type": "TEXT",
+    "absoluteBoundingBox": {
+      "x": 1661,
+      "y": 1079.2109375,
+      "width": 670.8817138671875,
+      "height": 32.2564582824707
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 0.27211540937423706,
+          "g": 0.27211540937423706,
+          "b": 0.27211540937423706,
+          "a": 1
+        }
+      }
+    ],
+    "style": {
+      "fontFamily": "REM",
+      "fontSize": 38
+    }
+  },
+  {
+    "id": "4415:6702",
+    "name": "‣ Personas adultas (25 o más años)",
+    "type": "TEXT",
+    "absoluteBoundingBox": {
+      "x": 1661,
+      "y": 1143.72265625,
+      "width": 725.9036865234375,
+      "height": 34.80302047729492
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 0.27211540937423706,
+          "g": 0.27211540937423706,
+          "b": 0.27211540937423706,
+          "a": 1
+        }
+      }
+    ],
+    "style": {
+      "fontFamily": "REM",
+      "fontSize": 38
+    }
+  },
+  {
+    "id": "4415:6699",
+    "name": "Group 33",
+    "type": "GROUP",
+    "absoluteBoundingBox": {
+      "x": 1661,
+      "y": 1013,
+      "width": 725.9036865234375,
+      "height": 165.5256805419922
+    },
+    "fills": []
+  },
+  {
+    "id": "4415:6703",
+    "name": "Personas de América Latina y el Caribe, de cualquier nacionalidad.",
+    "type": "TEXT",
+    "absoluteBoundingBox": {
+      "x": 1749.9383544921875,
+      "y": 1244.7978515625,
+      "width": 638.0615844726562,
+      "height": 140
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 0.27211540937423706,
+          "g": 0.27211540937423706,
+          "b": 0.27211540937423706,
+          "a": 1
+        }
+      }
+    ],
+    "style": {
+      "fontFamily": "REM",
+      "fontSize": 38
+    }
+  },
+  {
+    "id": "4415:6698",
+    "name": "Group 34",
+    "type": "GROUP",
+    "absoluteBoundingBox": {
+      "x": 1661,
+      "y": 1013,
+      "width": 727.0000610351562,
+      "height": 371.7978515625
+    },
+    "fills": []
+  },
+  {
+    "id": "4415:6705",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 2497.270751953125,
+      "y": 450.04730224609375,
+      "width": 94.1384506225586,
+      "height": 88.80982971191406
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6706",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 2414.32373046875,
+      "y": 450.04730224609375,
+      "width": 76.63017272949219,
+      "height": 88.80982971191406
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6707",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 2334.113037109375,
+      "y": 450.04730224609375,
+      "width": 72.06280517578125,
+      "height": 88.80982971191406
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6708",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 2242.181396484375,
+      "y": 450.04730224609375,
+      "width": 82.7199935913086,
+      "height": 88.80982971191406
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6709",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 2144.253173828125,
+      "y": 450.04730224609375,
+      "width": 84.4962158203125,
+      "height": 89.95166778564453
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6710",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 2054.86767578125,
+      "y": 450.04730224609375,
+      "width": 80.3094711303711,
+      "height": 88.80982971191406
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6711",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 1992.52783203125,
+      "y": 450.04730224609375,
+      "width": 67.74920654296875,
+      "height": 88.80982971191406
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6712",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 1894.5994873046875,
+      "y": 450.04730224609375,
+      "width": 84.49620819091797,
+      "height": 89.95166778564453
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6713",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 1810.205810546875,
+      "y": 448.7796325683594,
+      "width": 76.24958801269531,
+      "height": 91.22037506103516
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6714",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 2507.497314453125,
+      "y": 365.9437561035156,
+      "width": 64.22853088378906,
+      "height": 56.61626434326172
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6715",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 2454.52001953125,
+      "y": 365.9437561035156,
+      "width": 46.339717864990234,
+      "height": 56.61626434326172
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6716",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 2364.9423828125,
+      "y": 365.9437561035156,
+      "width": 49.38462829589844,
+      "height": 56.61626434326172
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6717",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 2295.8076171875,
+      "y": 365.9437561035156,
+      "width": 57.28229522705078,
+      "height": 56.61626434326172
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6718",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 2204.42041015625,
+      "y": 365.2757873535156,
+      "width": 49.95552444458008,
+      "height": 57.94841003417969
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6719",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 2134.08203125,
+      "y": 365.2757873535156,
+      "width": 63.086708068847656,
+      "height": 57.94841003417969
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6720",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 2073.287353515625,
+      "y": 365.9437561035156,
+      "width": 54.6180305480957,
+      "height": 56.61626434326172
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6721",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 2004.3082275390625,
+      "y": 365.9437561035156,
+      "width": 57.948421478271484,
+      "height": 56.61626434326172
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6722",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 1943.9083251953125,
+      "y": 365.9437561035156,
+      "width": 49.384613037109375,
+      "height": 56.61626434326172
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6723",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 1873.53369140625,
+      "y": 365.9437561035156,
+      "width": 58.04356384277344,
+      "height": 57.2823371887207
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6724",
+    "name": "Vector",
+    "type": "VECTOR",
+    "absoluteBoundingBox": {
+      "x": 1809,
+      "y": 355,
+      "width": 57.18718719482422,
+      "height": 68.415283203125
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "4415:6704",
+    "name": "Cuentos de la Cultureza",
+    "type": "GROUP",
+    "absoluteBoundingBox": {
+      "x": 1809,
+      "y": 355,
+      "width": 782.4091796875,
+      "height": 185
+    },
+    "fills": []
+  },
+  {
+    "id": "4415:6587",
+    "name": "Más información",
+    "type": "FRAME",
+    "absoluteBoundingBox": {
+      "x": 1480,
+      "y": 0,
+      "width": 1440,
+      "height": 2678
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 1
+        }
+      }
+    ]
+  }
+]

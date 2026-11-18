@@ -1,0 +1,343 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import logo from "../assets/make/logo-ciudadania.svg";
+import titulo from "../assets/make2/e912f.svg";
+---
+
+<BaseLayout
+	title="Sobre Ciudadanía Inteligente — Cuentos de la Cultureza"
+	description="Cuentos de la Cultureza es una iniciativa de Ciudadanía Inteligente: cuidar las personas, cuidar la naturaleza."
+>
+	<div class="sobre">
+		<div class="grid-pattern" aria-hidden="true"></div>
+
+		<div class="sobre-inner">
+			<!-- Hero -->
+			<section class="hero">
+				<h1>
+					<img src={titulo.src} alt="Cuentos de la Cultureza" width="782" height="185" />
+				</h1>
+
+				<p class="subtitle">
+					cuidar las <strong>personas</strong>, cuidar la <strong>naturaleza</strong>
+				</p>
+
+				<div class="arrow" aria-hidden="true">
+					<span class="arrow-line"></span>
+					<span class="arrow-head"></span>
+				</div>
+
+				<h2 class="impulsa">
+					<span>¿Quién lo</span>
+					<span>Impulsa?</span>
+				</h2>
+			</section>
+
+			<!-- Proyecto -->
+			<section class="project" aria-labelledby="impulsa-title">
+				<div class="project-left">
+					<p class="project-label" id="impulsa-title">Un proyecto de:</p>
+					<img class="project-logo" src={logo.src} alt="Ciudadanía Inteligente" width="284" height="83" />
+					<a class="project-button" href="https://ciudadaniai.org" target="_blank" rel="noopener">
+						Ir a Ciudadanía Inteligente
+					</a>
+				</div>
+
+				<div class="project-card">
+					<p>
+						Organización latinoamericana con más de <strong>16 años</strong> trabajando por fortalecer la democracia
+						mediante:
+					</p>
+					<ul>
+						<li>Ciudadanía activa y participación territorial</li>
+						<li>Desarrollo de herramientas digitales</li>
+						<li>Investigación y acción frente a amenazas a la democracia</li>
+						<li>Alianzas estratégicas con actores locales e internacionales</li>
+					</ul>
+				</div>
+
+				<img
+					class="collage"
+					src="/tierra-con-planta-sobre-ciudadania.png"
+					alt=""
+					aria-hidden="true"
+					width="732"
+					height="470"
+					loading="lazy"
+				/>
+			</section>
+		</div>
+	</div>
+</BaseLayout>
+
+<style>
+	.sobre {
+		position: relative;
+		overflow: hidden;
+		background: #fff;
+	}
+
+	.grid-pattern {
+		position: absolute;
+		inset: 0;
+		background-image:
+			linear-gradient(to right, rgb(255 76 77 / 0.16) 1px, transparent 1px),
+			linear-gradient(to bottom, rgb(255 76 77 / 0.16) 1px, transparent 1px);
+		background-size: 72px 72px;
+		pointer-events: none;
+	}
+
+	.sobre-inner {
+		position: relative;
+		width: min(1244px, calc(100% - 64px));
+		margin: 0 auto;
+	}
+
+	/* Hero */
+	.hero {
+		padding-top: 96px;
+		text-align: center;
+	}
+
+	.hero h1 {
+		margin: 0;
+	}
+
+	.hero h1 img {
+		display: block;
+		width: min(778px, 88%);
+		height: auto;
+		margin: 0 auto;
+		/* el SVG del título viene en blanco (para foto): lo pasamos a negro */
+		filter: invert(1);
+	}
+
+	.subtitle {
+		width: min(778px, 100%);
+		margin: 8px auto 0;
+		font-size: clamp(22px, 2.5vw, 36px);
+		line-height: 1.2;
+		color: var(--color-ink-soft);
+	}
+
+	.subtitle strong {
+		color: var(--color-brand);
+		font-weight: 600;
+	}
+
+	.arrow {
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+		margin-top: 96px;
+	}
+
+	.arrow-line {
+		width: 3px;
+		height: 62px;
+		background: var(--color-brand);
+	}
+
+	.arrow-head {
+		width: 0;
+		height: 0;
+		border-left: 9px solid transparent;
+		border-right: 9px solid transparent;
+		border-top: 18px solid var(--color-brand);
+	}
+
+	.impulsa {
+		margin: 60px 0 0;
+		font-family: var(--font-display);
+		font-weight: 800;
+		line-height: 0.95;
+	}
+
+	.impulsa span {
+		display: block;
+	}
+
+	.impulsa span:first-child {
+		font-size: clamp(32px, 3.33vw, 48px);
+		font-weight: 500;
+		color: var(--color-ink-soft);
+	}
+
+	.impulsa span:last-child {
+		font-size: clamp(48px, 6.25vw, 90px);
+		text-transform: uppercase;
+		color: var(--color-brand);
+	}
+
+	/* Proyecto */
+	.project {
+		position: relative;
+		display: grid;
+		grid-template-columns: 284px minmax(0, 655px);
+		gap: 157px;
+		margin: 70px 0 0 66px;
+		padding-bottom: 420px;
+		text-align: left;
+	}
+
+	.project-left,
+	.project-card {
+		position: relative;
+		z-index: 1;
+	}
+
+	.project-label {
+		margin: 0;
+		font-size: 20px;
+		font-weight: 700;
+		line-height: 1.3;
+		color: var(--color-ink-soft);
+	}
+
+	.project-logo {
+		display: block;
+		width: 284px;
+		height: auto;
+		margin-top: 8px;
+	}
+
+	.project-button {
+		display: inline-flex;
+		align-items: center;
+		justify-content: center;
+		margin-top: 20px;
+		padding: 14px 26px;
+		border-radius: 999px;
+		background: var(--color-brand);
+		color: #fff;
+		font-size: 18px;
+		font-weight: 900;
+		text-transform: uppercase;
+		line-height: 1;
+		white-space: nowrap;
+		transition: background 200ms linear;
+	}
+
+	.project-button:hover,
+	.project-button:focus-visible {
+		background: var(--color-ink);
+	}
+
+	.project-card {
+		padding: 40px 38px;
+		border-radius: 8px;
+		background: color-mix(in srgb, var(--color-sun) 14%, white);
+		font-size: 20px;
+		line-height: 1.25;
+		color: var(--color-ink-soft);
+	}
+
+	.project-card p {
+		margin: 0;
+	}
+
+	.project-card strong {
+		font-weight: 900;
+	}
+
+	.project-card ul {
+		margin: 14px 0 0;
+		padding-left: 22px;
+		list-style: disc;
+	}
+
+	.project-card li {
+		margin-bottom: 2px;
+	}
+
+	/* Composición de cierre */
+	.collage {
+		position: absolute;
+		z-index: 0;
+		right: calc(50% - 50vw);
+		bottom: 0;
+		width: min(732px, 62vw);
+		height: auto;
+		pointer-events: none;
+	}
+
+	@media (max-width: 1100px) {
+		.hero {
+			padding-top: 60px;
+		}
+
+		.arrow {
+			margin-top: 56px;
+		}
+
+		.impulsa {
+			margin-top: 40px;
+		}
+
+		.project {
+			grid-template-columns: 240px minmax(0, 1fr);
+			gap: 60px;
+			margin-left: 0;
+		}
+
+		.project-logo {
+			width: 220px;
+		}
+
+		.project-card {
+			padding: 30px;
+			font-size: 18px;
+		}
+
+		.collage {
+			position: relative;
+			right: auto;
+			bottom: auto;
+			width: min(100%, 560px);
+			margin-top: 60px;
+			margin-left: auto;
+		}
+	}
+
+	@media (max-width: 760px) {
+		.sobre-inner {
+			width: calc(100% - 40px);
+		}
+
+		.hero {
+			padding-top: 40px;
+		}
+
+		.arrow {
+			margin-top: 40px;
+		}
+
+		.arrow-line {
+			height: 40px;
+		}
+
+		.project {
+			grid-template-columns: minmax(0, 1fr);
+			gap: 32px;
+			margin-top: 40px;
+		}
+
+		.project-card {
+			min-width: 0;
+			overflow-wrap: anywhere;
+		}
+
+		.project-logo {
+			width: 190px;
+		}
+
+		.project-card {
+			padding: 24px;
+			font-size: 16px;
+		}
+
+		.collage {
+			margin-top: 40px;
+		}
+	}
+</style>
