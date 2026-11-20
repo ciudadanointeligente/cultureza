@@ -1,8 +1,6 @@
 ---
 import BaseLayout from "../layouts/BaseLayout.astro";
-import fruta from "../assets/make/fruta.png";
 import planta from "../assets/make/planta.png";
-import frutaTorn from "../assets/make/fruta-torn.png";
 import destacadoTorn from "../assets/make/destacado-torn.png";
 ---
 
@@ -47,8 +45,7 @@ import destacadoTorn from "../assets/make/destacado-torn.png";
 				>
 					<span class="card-title">Cómo<br />participar</span>
 
-					<div class="fruit-mask" style={`mask-image:url("${frutaTorn.src}")`}></div>
-					<img class="fruit" src={fruta.src} alt="" width="1024" height="585" loading="lazy" />
+					<img class="fruit" src="/fruta.png" alt="" width="308" height="181" loading="lazy" />
 
 					<span class="card-link">
 						Click aquí
@@ -279,26 +276,12 @@ import destacadoTorn from "../assets/make/destacado-torn.png";
 		transform: translateX(8px);
 	}
 
-	.fruit-mask {
-		position: absolute;
-		top: 0;
-		right: 15px;
-		width: 307px;
-		height: 175px;
-		background: var(--color-paper);
-		mask-repeat: no-repeat;
-		mask-size: contain;
-		mask-position: center;
-	}
-
 	.fruit {
 		position: absolute;
-		top: -8px;
+		top: 0;
 		right: 0;
 		width: 307px;
-		height: 175px;
-		object-fit: cover;
-		transform: rotate(180deg) scaleY(-1);
+		height: auto;
 	}
 
 	.plant {
@@ -398,8 +381,7 @@ import destacadoTorn from "../assets/make/destacado-torn.png";
 			font-size: 23px;
 		}
 
-		.fruit,
-		.fruit-mask {
+		.fruit {
 			right: -75px;
 		}
 
@@ -500,8 +482,7 @@ import destacadoTorn from "../assets/make/destacado-torn.png";
 			font-size: 21px;
 		}
 
-		.fruit,
-		.fruit-mask {
+		.fruit {
 			right: -80px;
 			width: 280px;
 		}
