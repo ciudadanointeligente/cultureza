@@ -1,22 +1,16 @@
 ---
-import { Image } from "astro:assets";
-
 import BaseLayout from "../layouts/BaseLayout.astro";
-import { cuentosDestacados, otrosCuentos, storyUrl } from "../data/cuentos";
 ---
 
 <BaseLayout
 	title="Cuentos de la Cultureza — Cuentos"
-	description="Lee los cuentos de las personas participantes de la convocatoria Cuentos de la Cultureza: historias sobre el cuidado de las personas, las comunidades y la naturaleza."
+	description="Revisa acá los Cuentos premiados y seleccionados de la convocatoria Cuentos de la Cultureza."
 >
 	<div class="cuentos">
 		<!-- Hero -->
 		<section class="hero">
 			<div class="container">
-				<div class="hero-copy">
-					<h1>Cuentos de la<br />Cultureza</h1>
-					<p class="hero-subtitle">Revisa los cuentos de los participantes</p>
-				</div>
+				<h1>Cuentos de la<br />Cultureza</h1>
 			</div>
 
 			<img
@@ -30,71 +24,12 @@ import { cuentosDestacados, otrosCuentos, storyUrl } from "../data/cuentos";
 			/>
 		</section>
 
-		<!-- Cuentos premiados -->
-		<section class="featured" aria-labelledby="premiados">
+		<!-- Próximamente -->
+		<section class="coming-soon" aria-labelledby="coming-soon-title">
 			<div class="container">
-				<p class="section-eyebrow">Revisa</p>
-				<h2 class="section-title" id="premiados">Los cuentos premiados</h2>
-
-				<div class="featured-grid">
-					{
-						cuentosDestacados.map((cuento) => (
-							<article class="featured-card">
-								<a class="featured-link" href={storyUrl(cuento.slug)}>
-									<div class="featured-image">
-										{cuento.image && (
-											<Image
-												src={cuento.image}
-												alt=""
-												widths={[400, 700, 900]}
-												sizes="(max-width: 760px) 100vw, (max-width: 1100px) 50vw, 380px"
-												loading="lazy"
-											/>
-										)}
-									</div>
-
-									<div class="featured-body">
-										<span class="tag">{cuento.category}</span>
-										<h3>
-											{cuento.title} - {cuento.country}
-										</h3>
-										<span class="read-more">Leer completo</span>
-									</div>
-								</a>
-							</article>
-						))
-					}
-				</div>
-			</div>
-		</section>
-
-		<!-- Otros cuentos -->
-		<section class="others" aria-labelledby="otros">
-			<div class="container">
-				<h2 class="others-title" id="otros">Revisa otros cuentos recibidos</h2>
-
-				<div class="others-grid">
-					{
-						otrosCuentos.map((cuento) => (
-							<article class="other-card">
-								<a class="other-link" href={storyUrl(cuento.slug)}>
-									<div class="other-header">
-										<h3>{cuento.title}</h3>
-									</div>
-
-									<div class="other-body">
-										<ul>
-											<li>Categoría: {cuento.category}</li>
-											<li>País: {cuento.country}</li>
-										</ul>
-										<p>{cuento.excerpt}</p>
-										<span class="pill">Revisar</span>
-									</div>
-								</a>
-							</article>
-						))
-					}
-				</div>
+				<p id="coming-soon-title">
+					Revisa acá los <strong>Cuentos premiados y seleccionados</strong>
+				</p>
 			</div>
 		</section>
 	</div>
@@ -117,13 +52,9 @@ import { cuentosDestacados, otrosCuentos, storyUrl } from "../data/cuentos";
 		padding-top: 105px;
 	}
 
-	.hero-copy {
+	.hero h1 {
 		position: relative;
 		z-index: 1;
-		width: 72%;
-	}
-
-	.hero h1 {
 		margin: 0;
 		color: var(--color-ink);
 		font-family: var(--font-display);
@@ -132,16 +63,6 @@ import { cuentosDestacados, otrosCuentos, storyUrl } from "../data/cuentos";
 		line-height: 0.9;
 		letter-spacing: -0.045em;
 		text-transform: uppercase;
-	}
-
-	.hero-subtitle {
-		max-width: 780px;
-		margin: 26px 0 0 10px;
-		color: var(--color-ink-soft);
-		font-family: var(--font-display);
-		font-size: clamp(24px, 2.75vw, 40px);
-		font-weight: 500;
-		line-height: 1.15;
 	}
 
 	.hero-art {
@@ -154,223 +75,25 @@ import { cuentosDestacados, otrosCuentos, storyUrl } from "../data/cuentos";
 		pointer-events: none;
 	}
 
-	/* Premiados */
-	.featured {
-		position: relative;
-		padding-top: 42px;
+	/* Aviso */
+	.coming-soon {
+		padding: 40px 0 150px;
 	}
 
-	.section-eyebrow {
-		margin: 0;
-		color: var(--color-brand);
-		font-family: var(--font-display);
-		font-size: clamp(22px, 2.1vw, 30px);
-		font-weight: 500;
-		line-height: 1.25;
-		text-align: center;
-		text-transform: uppercase;
-	}
-
-	.section-title {
-		margin: 6px 0 0;
-		color: var(--color-brand);
-		font-family: var(--font-display);
-		font-size: clamp(34px, 3.5vw, 50px);
-		font-weight: 900;
-		line-height: 1.05;
-		letter-spacing: -0.01em;
-		text-align: center;
-		text-transform: uppercase;
-	}
-
-	.featured-grid {
-		display: grid;
-		grid-template-columns: repeat(3, minmax(0, 1fr));
-		gap: 50px;
-		margin-top: 106px;
-	}
-
-	.featured-card,
-	.other-card {
-		min-width: 0;
-	}
-
-	.featured-link,
-	.other-link {
-		display: block;
-		height: 100%;
-		color: inherit;
-	}
-
-	.featured-card {
-		border-radius: 0 0 20px 20px;
-		background: color-mix(in srgb, var(--color-lime) 42%, #fff);
-		overflow: hidden;
-		transition: transform 250ms linear;
-	}
-
-	.featured-card:hover,
-	.featured-card:focus-within {
-		transform: translateY(-5px);
-	}
-
-	.featured-image {
-		overflow: hidden;
-		background: #e5e5e5;
-	}
-
-	.featured-image img {
-		display: block;
-		width: 100%;
-		height: 231px;
-		object-fit: cover;
-		filter: grayscale(1);
-		transition: transform 400ms linear;
-	}
-
-	.featured-card:hover .featured-image img {
-		transform: scale(1.035);
-	}
-
-	.featured-body {
-		display: flex;
-		min-height: 234px;
-		padding: 44px 31px 30px;
-		flex-direction: column;
-		align-items: flex-start;
-	}
-
-	.tag {
-		display: inline-block;
-		padding: 3px 8px 4px;
-		border: 1px solid var(--color-ink-soft);
+	.coming-soon p {
+		max-width: 900px;
+		margin: 0 auto;
 		color: var(--color-ink-soft);
-		font-family: var(--font-sans);
-		font-size: 14px;
+		font-family: var(--font-display);
+		font-size: clamp(30px, 3.6vw, 52px);
 		font-weight: 500;
-		letter-spacing: 0.02em;
 		line-height: 1.15;
-		text-transform: uppercase;
+		text-align: center;
 	}
 
-	.featured-body h3 {
-		margin: 18px 0 0;
-		color: var(--color-ink-soft);
-		font-family: var(--font-display);
-		font-size: 20px;
-		font-weight: 600;
-		line-height: 1.25;
-		text-transform: uppercase;
-	}
-
-	.read-more {
-		margin-top: auto;
-		padding-top: 22px;
+	.coming-soon strong {
 		color: var(--color-brand);
-		font-family: var(--font-sans);
-		font-size: 16px;
-		font-weight: 700;
-		line-height: 1.2;
-		text-transform: uppercase;
-		text-decoration: underline;
-		text-underline-offset: 3px;
-	}
-
-	/* Otros cuentos */
-	.others {
-		padding-top: 134px;
-		padding-bottom: 80px;
-	}
-
-	.others-title {
-		margin: 0;
-		color: var(--color-olive);
-		font-family: var(--font-display);
-		font-size: clamp(30px, 3.15vw, 45px);
-		font-weight: 500;
-		line-height: 1.1;
-		text-align: center;
-	}
-
-	.others-grid {
-		display: grid;
-		grid-template-columns: repeat(4, minmax(0, 1fr));
-		gap: 55px 43px;
-		margin-top: 92px;
-	}
-
-	.other-card {
-		border-radius: 20px;
-		background: color-mix(in srgb, var(--color-olive) 22%, #fff);
-		overflow: hidden;
-		transition: transform 250ms linear;
-	}
-
-	.other-card:hover,
-	.other-card:focus-within {
-		transform: translateY(-5px);
-	}
-
-	.other-header {
-		display: grid;
-		min-height: 72px;
-		padding: 16px 14px;
-		place-items: center;
-		background: var(--color-brand);
-	}
-
-	.other-header h3 {
-		margin: 0;
-		color: #fff;
-		font-family: var(--font-sans);
-		font-size: 20px;
-		font-weight: 600;
-		line-height: 1.1;
-		text-align: center;
-	}
-
-	.other-body {
-		display: flex;
-		min-height: 272px;
-		padding: 30px 16px 28px;
-		flex-direction: column;
-		align-items: flex-start;
-	}
-
-	.other-body ul {
-		margin: 0;
-		padding-left: 22px;
-		color: var(--color-olive);
-		font-family: var(--font-sans);
-		font-size: 18px;
-		font-weight: 400;
-		line-height: 1.11;
-		list-style: disc;
-	}
-
-	.other-body p {
-		margin: 18px 0 0;
-		color: var(--color-olive);
-		font-family: var(--font-sans);
-		font-size: 18px;
-		font-weight: 400;
-		line-height: 1.11;
-	}
-
-	.pill {
-		display: inline-flex;
-		align-items: center;
-		justify-content: center;
-		margin-top: auto;
-		padding: 9px 21px;
-		border-radius: 999px;
-		background: var(--color-lime);
-		color: var(--color-ink-soft);
-		font-family: var(--font-sans);
-		font-size: 14px;
 		font-weight: 900;
-		line-height: 1.25;
-		text-transform: uppercase;
 	}
 
 	@media (max-width: 1100px) {
@@ -382,20 +105,6 @@ import { cuentosDestacados, otrosCuentos, storyUrl } from "../data/cuentos";
 		.hero-art {
 			width: 58vw;
 			top: 60px;
-		}
-
-		.featured-grid {
-			grid-template-columns: repeat(2, minmax(0, 1fr));
-			gap: 36px;
-		}
-
-		.others-grid {
-			grid-template-columns: repeat(2, minmax(0, 1fr));
-			gap: 36px;
-		}
-
-		.others {
-			padding-top: 100px;
 		}
 	}
 
@@ -409,17 +118,8 @@ import { cuentosDestacados, otrosCuentos, storyUrl } from "../data/cuentos";
 			padding: 28px 0 0;
 		}
 
-		.hero-copy {
-			width: 100%;
-		}
-
 		.hero h1 {
 			font-size: clamp(36px, 10.8vw, 70px);
-		}
-
-		.hero-subtitle {
-			margin: 18px 0 0;
-			font-size: clamp(20px, 5.4vw, 27px);
 		}
 
 		.hero-art {
@@ -430,54 +130,12 @@ import { cuentosDestacados, otrosCuentos, storyUrl } from "../data/cuentos";
 			margin: 26px -20px 0;
 		}
 
-		.featured {
-			padding-top: 54px;
+		.coming-soon {
+			padding: 54px 0 90px;
 		}
 
-		.section-eyebrow {
-			font-size: 20px;
-		}
-
-		.section-title {
-			font-size: clamp(28px, 8vw, 40px);
-		}
-
-		.featured-grid {
-			grid-template-columns: 1fr;
-			gap: 28px;
-			margin-top: 42px;
-		}
-
-		.featured-image img {
-			height: 210px;
-		}
-
-		.featured-body {
-			min-height: 0;
-			padding: 30px 24px 26px;
-		}
-
-		.others {
-			padding-top: 80px;
-			padding-bottom: 50px;
-		}
-
-		.others-title {
-			font-size: clamp(27px, 7.6vw, 36px);
-		}
-
-		.others-grid {
-			grid-template-columns: 1fr;
-			gap: 24px;
-			margin-top: 40px;
-		}
-
-		.other-body {
-			min-height: 0;
-		}
-
-		.pill {
-			margin-top: 24px;
+		.coming-soon p {
+			font-size: clamp(25px, 7vw, 34px);
 		}
 	}
 </style>
