@@ -43,7 +43,7 @@ import destacadoTorn from "../assets/make/destacado-torn.png";
 					class="participation-card how-card"
 					href="mailto:cultureza@ciudadaniai.org?subject=Quiero%20participar%20en%20Cultureza"
 				>
-					<span class="card-title">Cómo<br />participar</span>
+					<span class="card-title"><span>Cómo</span> <span>participar</span></span>
 
 					<img class="fruit" src="/fruta.png" alt="" width="308" height="181" loading="lazy" />
 
@@ -61,7 +61,7 @@ import destacadoTorn from "../assets/make/destacado-torn.png";
 				</a>
 
 				<a class="participation-card rules-card" href="/mas-informacion#bases">
-					<span class="card-title">Revisar las<br />bases</span>
+					<span class="card-title"><span>Revisar las</span> <span>bases</span></span>
 
 					<img class="plant" src={planta.src} alt="" width="980" height="980" loading="lazy" />
 
@@ -234,17 +234,28 @@ import destacadoTorn from "../assets/make/destacado-torn.png";
 		z-index: 3;
 		top: 44px;
 		left: 76px;
-		padding: 0 4px;
+		display: flex;
+		flex-direction: column;
+		align-items: flex-start;
+		gap: 5px;
 		color: var(--color-ink-soft);
-		background: #fff;
 		font-family: var(--font-display);
 		font-size: 40px;
 		font-weight: 700;
 		line-height: 1.3;
 	}
 
+	.card-title span {
+		display: inline-block;
+		padding: 0 5px;
+		background: #fff;
+	}
+
 	.rules-card .card-title {
 		color: #000;
+	}
+
+	.rules-card .card-title span {
 		background: var(--color-lime);
 	}
 
